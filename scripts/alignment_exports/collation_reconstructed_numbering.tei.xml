@@ -1,0 +1,4838 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Collation on reconstructed shared numbering</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Automatically generated.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Collation computed after automatic verse alignment and shared numbering.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="collation">
+        <l n="1">
+          <root>
+            <app>
+              <rdg wit="#A">Soredamors</rdg>
+              <rdg wit="#B">La</rdg>
+              <rdg wit="#C">La</rdg>
+              <rdg wit="#P">La</rdg>
+              <rdg wit="#R">La</rdg>
+              <rdg wit="#S">La</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">prant</rdg>
+              <rdg wit="#B">roine</rdg>
+              <rdg wit="#C">reine</rdg>
+              <rdg wit="#P">roine</rdg>
+              <rdg wit="#R">roine</rdg>
+              <rdg wit="#S">reine</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">prent</rdg>
+              <rdg wit="#C">prist</rdg>
+              <rdg wit="#P">prent</rdg>
+              <rdg wit="#R">prist</rdg>
+              <rdg wit="#S">prent</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">la</rdg>
+              <rdg wit="#B">la</rdg>
+              <rdg wit="#C">la</rdg>
+              <rdg wit="#P">la</rdg>
+              <rdg wit="#R">la</rdg>
+              <rdg wit="#S">la</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">chemise</rdg>
+              <rdg wit="#B">cemise</rdg>
+              <rdg wit="#C">chemise</rdg>
+              <rdg wit="#P">cemise</rdg>
+              <rdg wit="#R">chemise</rdg>
+              <rdg wit="#S">chemise</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="2">
+          <root>
+            <app>
+              <rdg wit="#A">Si</rdg>
+              <rdg wit="#B">Si</rdg>
+              <rdg wit="#C">Si</rdg>
+              <rdg wit="#P">Si</rdg>
+              <rdg wit="#R">Si</rdg>
+              <rdg wit="#S">Si</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">l'a</rdg>
+              <rdg wit="#B">l'a</rdg>
+              <rdg wit="#C">l'a</rdg>
+              <rdg wit="#P">l'a</rdg>
+              <rdg wit="#R">l'a</rdg>
+              <rdg wit="#S">l'a</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">Alixandre</rdg>
+              <rdg wit="#B">alixandre</rdg>
+              <rdg wit="#C">Alixandre</rdg>
+              <rdg wit="#P">Alixandre</rdg>
+              <rdg wit="#R">alixandre</rdg>
+              <rdg wit="#S">Alixandre</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">tramise</rdg>
+              <rdg wit="#B">tramise</rdg>
+              <rdg wit="#C">tramise</rdg>
+              <rdg wit="#P">tramise</rdg>
+              <rdg wit="#R">tramise</rdg>
+              <rdg wit="#S">tramisse</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="3">
+          <root>
+            <app>
+              <rdg wit="#A">Et</rdg>
+              <rdg wit="#B">Ha!</rdg>
+              <rdg wit="#C">Et</rdg>
+              <rdg wit="#P">Ha</rdg>
+              <rdg wit="#R">Ha</rdg>
+              <rdg wit="#S">He</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">Dex</rdg>
+              <rdg wit="#B">Dex!</rdg>
+              <rdg wit="#C">Dex</rdg>
+              <rdg wit="#P">Diex</rdg>
+              <rdg wit="#R">dex</rdg>
+              <rdg wit="#S">Dex</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">com</rdg>
+              <rdg wit="#B">Com</rdg>
+              <rdg wit="#C">com</rdg>
+              <rdg wit="#P">com</rdg>
+              <rdg wit="#R">com</rdg>
+              <rdg wit="#S">com</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">grant</rdg>
+              <rdg wit="#B">grant</rdg>
+              <rdg wit="#C">grant</rdg>
+              <rdg wit="#P">grant</rdg>
+              <rdg wit="#R">grant</rdg>
+              <rdg wit="#S">grant</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">joie</rdg>
+              <rdg wit="#B">joie</rdg>
+              <rdg wit="#C">joie</rdg>
+              <rdg wit="#P">joie</rdg>
+              <rdg wit="#R">joie</rdg>
+              <rdg wit="#S">joie</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">an</rdg>
+              <rdg wit="#B">en</rdg>
+              <rdg wit="#C">en</rdg>
+              <rdg wit="#P">en</rdg>
+              <rdg wit="#R">en</rdg>
+              <rdg wit="#S">en</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">eust</rdg>
+              <rdg wit="#B">eust</rdg>
+              <rdg wit="#C">eust</rdg>
+              <rdg wit="#P">eust</rdg>
+              <rdg wit="#R">eust</rdg>
+              <rdg wit="#S">aust</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="4">
+          <root>
+            <app>
+              <rdg wit="#B">[192a]</rdg>
+              <rdg wit="#R">Alixande</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">Alixandre</rdg>
+              <rdg wit="#B">alixandre</rdg>
+              <rdg wit="#C">Alixandre</rdg>
+              <rdg wit="#P">Alixandre</rdg>
+              <rdg wit="#S">Alixandre</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">s'il</rdg>
+              <rdg wit="#B">s'il</rdg>
+              <rdg wit="#C">se</rdg>
+              <rdg wit="#P">se</rdg>
+              <rdg wit="#R">s'il</rdg>
+              <rdg wit="#S">se</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">le</rdg>
+              <rdg wit="#B">le</rdg>
+              <rdg wit="#C">il</rdg>
+              <rdg wit="#P">il</rdg>
+              <rdg wit="#S">il</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">seust</rdg>
+              <rdg wit="#B">seust</rdg>
+              <rdg wit="#C">seust</rdg>
+              <rdg wit="#P">seust</rdg>
+              <rdg wit="#R">seust</rdg>
+              <rdg wit="#S">lo</rdg>
+            </app>
+            <app>
+              <rdg wit="#S">saust</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="5">
+          <root>
+            <app>
+              <rdg wit="#A">Que</rdg>
+              <rdg wit="#B">Que</rdg>
+              <rdg wit="#C">Que</rdg>
+              <rdg wit="#P">Que</rdg>
+              <rdg wit="#R">Que</rdg>
+              <rdg wit="#S">Que</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">la</rdg>
+              <rdg wit="#B">la</rdg>
+              <rdg wit="#C">la</rdg>
+              <rdg wit="#P">la</rdg>
+              <rdg wit="#R">la</rdg>
+              <rdg wit="#S">la</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">reine</rdg>
+              <rdg wit="#B">roine</rdg>
+              <rdg wit="#C">reine</rdg>
+              <rdg wit="#P">roine</rdg>
+              <rdg wit="#R">roine</rdg>
+              <rdg wit="#S">roine</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">li</rdg>
+              <rdg wit="#B">li</rdg>
+              <rdg wit="#C">li</rdg>
+              <rdg wit="#P">li</rdg>
+              <rdg wit="#R">li</rdg>
+              <rdg wit="#S">li</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">anvoie</rdg>
+              <rdg wit="#B">envoie!</rdg>
+              <rdg wit="#C">envoie</rdg>
+              <rdg wit="#P">envoie</rdg>
+              <rdg wit="#R">envoie</rdg>
+              <rdg wit="#S">envoie</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="6">
+          <root>
+            <app>
+              <rdg wit="#A">Molt</rdg>
+              <rdg wit="#B">Molt</rdg>
+              <rdg wit="#C">Molt</rdg>
+              <rdg wit="#P">Molt</rdg>
+              <rdg wit="#R">Molt</rdg>
+              <rdg wit="#S">Molt</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">an</rdg>
+              <rdg wit="#B">en</rdg>
+              <rdg wit="#C">en</rdg>
+              <rdg wit="#P">en</rdg>
+              <rdg wit="#R">en</rdg>
+              <rdg wit="#S">en</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">reust</rdg>
+              <rdg wit="#B">eust</rdg>
+              <rdg wit="#C">reust</rdg>
+              <rdg wit="#P">reust</rdg>
+              <rdg wit="#R">reust</rdg>
+              <rdg wit="#S">aust</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">cele</rdg>
+              <rdg wit="#B">cele</rdg>
+              <rdg wit="#C">cele</rdg>
+              <rdg wit="#P">cele</rdg>
+              <rdg wit="#R">cele</rdg>
+              <rdg wit="#S">cele</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">grant</rdg>
+              <rdg wit="#B">de</rdg>
+              <rdg wit="#C">grant</rdg>
+              <rdg wit="#P">gran</rdg>
+              <rdg wit="#R">grant</rdg>
+              <rdg wit="#S">grant</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">joie</rdg>
+              <rdg wit="#B">joie</rdg>
+              <rdg wit="#C">joie</rdg>
+              <rdg wit="#P">joie</rdg>
+              <rdg wit="#R">joie</rdg>
+              <rdg wit="#S">joie</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="7">
+          <root>
+            <app>
+              <rdg wit="#A">Qui</rdg>
+              <rdg wit="#B">Que</rdg>
+              <rdg wit="#C">Qui</rdg>
+              <rdg wit="#P">Qui</rdg>
+              <rdg wit="#R">Que</rdg>
+              <rdg wit="#S">Qui</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">son</rdg>
+              <rdg wit="#B">son</rdg>
+              <rdg wit="#C">son</rdg>
+              <rdg wit="#P">son</rdg>
+              <rdg wit="#R">son</rdg>
+              <rdg wit="#S">son</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">chevol</rdg>
+              <rdg wit="#B">cavel</rdg>
+              <rdg wit="#C">chevol</rdg>
+              <rdg wit="#P">cavel</rdg>
+              <rdg wit="#R">cheval</rdg>
+              <rdg wit="#S">chevel</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">i</rdg>
+              <rdg wit="#B">i</rdg>
+              <rdg wit="#C">i</rdg>
+              <rdg wit="#P">i</rdg>
+              <rdg wit="#R">i</rdg>
+              <rdg wit="#S">i</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">avoit</rdg>
+              <rdg wit="#B">avoit</rdg>
+              <rdg wit="#C">avoit</rdg>
+              <rdg wit="#P">avoit</rdg>
+              <rdg wit="#R">avoit</rdg>
+              <rdg wit="#S">avoit</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">mis</rdg>
+              <rdg wit="#B">mis</rdg>
+              <rdg wit="#C">mis</rdg>
+              <rdg wit="#P">mis</rdg>
+              <rdg wit="#R">mis</rdg>
+              <rdg wit="#S">mis</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="8">
+          <root>
+            <app>
+              <rdg wit="#A">S'ele</rdg>
+              <rdg wit="#B">S'ele</rdg>
+              <rdg wit="#C">S'ele</rdg>
+              <rdg wit="#P">S'ele</rdg>
+              <rdg wit="#R">S'ele</rdg>
+              <rdg wit="#S">S'ele</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">seust</rdg>
+              <rdg wit="#B">seust</rdg>
+              <rdg wit="#C">seust</rdg>
+              <rdg wit="#P">seust</rdg>
+              <rdg wit="#R">seust</rdg>
+              <rdg wit="#S">saust</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">que</rdg>
+              <rdg wit="#B">que</rdg>
+              <rdg wit="#C">que</rdg>
+              <rdg wit="#P">que</rdg>
+              <rdg wit="#R">que</rdg>
+              <rdg wit="#S">que</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">ses</rdg>
+              <rdg wit="#B">ses</rdg>
+              <rdg wit="#C">ses</rdg>
+              <rdg wit="#P">ses</rdg>
+              <rdg wit="#R">ses</rdg>
+              <rdg wit="#S">ses</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">amis</rdg>
+              <rdg wit="#B">amis</rdg>
+              <rdg wit="#C">amis</rdg>
+              <rdg wit="#P">amis</rdg>
+              <rdg wit="#R">amis</rdg>
+              <rdg wit="#S">amis</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="9">
+          <root>
+            <app>
+              <rdg wit="#A">La</rdg>
+              <rdg wit="#B">La</rdg>
+              <rdg wit="#C">La</rdg>
+              <rdg wit="#P">Le</rdg>
+              <rdg wit="#R">La</rdg>
+              <rdg wit="#S">Lo</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">deust</rdg>
+              <rdg wit="#B">deust</rdg>
+              <rdg wit="#C">deust</rdg>
+              <rdg wit="#P">deust</rdg>
+              <rdg wit="#R">deust</rdg>
+              <rdg wit="#S">deust</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">avoir</rdg>
+              <rdg wit="#B">avoir</rdg>
+              <rdg wit="#C">avoir</rdg>
+              <rdg wit="#P">avoir</rdg>
+              <rdg wit="#R">avoir</rdg>
+              <rdg wit="#S">avoir</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">ne</rdg>
+              <rdg wit="#B">et</rdg>
+              <rdg wit="#C">et</rdg>
+              <rdg wit="#P">ne</rdg>
+              <rdg wit="#R">et</rdg>
+              <rdg wit="#S">ne</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">porter</rdg>
+              <rdg wit="#B">porter</rdg>
+              <rdg wit="#C">porter</rdg>
+              <rdg wit="#P">porter</rdg>
+              <rdg wit="#R">porter</rdg>
+              <rdg wit="#S">porter</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="10">
+          <root>
+            <app>
+              <rdg wit="#A">Molt</rdg>
+              <rdg wit="#B">Molt</rdg>
+              <rdg wit="#C">Molt</rdg>
+              <rdg wit="#P">Molt</rdg>
+              <rdg wit="#R">Molt</rdg>
+              <rdg wit="#S">Molt</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">s'an</rdg>
+              <rdg wit="#B">s'en</rdg>
+              <rdg wit="#C">se</rdg>
+              <rdg wit="#P">se</rdg>
+              <rdg wit="#R">s'en</rdg>
+              <rdg wit="#S">s'en</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">deust</rdg>
+              <rdg wit="#B">deust</rdg>
+              <rdg wit="#C">poist</rdg>
+              <rdg wit="#P">peust</rdg>
+              <rdg wit="#R">peust</rdg>
+              <rdg wit="#S">poist</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">reconforter</rdg>
+              <rdg wit="#B">reconforter</rdg>
+              <rdg wit="#C">reconforter</rdg>
+              <rdg wit="#P">reconforter</rdg>
+              <rdg wit="#R">reconforter</rdg>
+              <rdg wit="#S">reconforter</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="11">
+          <root>
+            <app>
+              <rdg wit="#A">Car</rdg>
+              <rdg wit="#B">Car</rdg>
+              <rdg wit="#C">Car</rdg>
+              <rdg wit="#P">Car</rdg>
+              <rdg wit="#R">Quar</rdg>
+              <rdg wit="#S">Car</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">ele</rdg>
+              <rdg wit="#B">ele</rdg>
+              <rdg wit="#C">ele</rdg>
+              <rdg wit="#P">ele</rdg>
+              <rdg wit="#R">ele</rdg>
+              <rdg wit="#S">elle</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">n'amast</rdg>
+              <rdg wit="#B">n'amast</rdg>
+              <rdg wit="#C">n'amast</rdg>
+              <rdg wit="#P">n'amast</rdg>
+              <rdg wit="#R">n'emmast</rdg>
+              <rdg wit="#S">n'amast</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">mie</rdg>
+              <rdg wit="#B">mie</rdg>
+              <rdg wit="#C">mie</rdg>
+              <rdg wit="#P">mie</rdg>
+              <rdg wit="#R">mie</rdg>
+              <rdg wit="#S">mie</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">tant</rdg>
+              <rdg wit="#B">tant</rdg>
+              <rdg wit="#C">tant</rdg>
+              <rdg wit="#P">tant</rdg>
+              <rdg wit="#R">tant</rdg>
+              <rdg wit="#S">tant</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="12">
+          <root>
+            <app>
+              <rdg wit="#A">De</rdg>
+              <rdg wit="#B">De</rdg>
+              <rdg wit="#C">Ne</rdg>
+              <rdg wit="#P">De</rdg>
+              <rdg wit="#R">De</rdg>
+              <rdg wit="#S">De</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">ses</rdg>
+              <rdg wit="#B">ses</rdg>
+              <rdg wit="#C">ses</rdg>
+              <rdg wit="#P">ses</rdg>
+              <rdg wit="#R">ses</rdg>
+              <rdg wit="#S">ses</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">chevoz</rdg>
+              <rdg wit="#B">cavex</rdg>
+              <rdg wit="#C">cheveus</rdg>
+              <rdg wit="#P">cavels</rdg>
+              <rdg wit="#R">chevels</rdg>
+              <rdg wit="#S">cheveuz</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">le</rdg>
+              <rdg wit="#B">le</rdg>
+              <rdg wit="#C">le</rdg>
+              <rdg wit="#P">le</rdg>
+              <rdg wit="#R">le</rdg>
+              <rdg wit="#S">lo</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">remenant</rdg>
+              <rdg wit="#B">remanant</rdg>
+              <rdg wit="#C">remanant</rdg>
+              <rdg wit="#P">remanant</rdg>
+              <rdg wit="#R">remanant</rdg>
+              <rdg wit="#S">remant</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="13">
+          <root>
+            <app>
+              <rdg wit="#A">Com</rdg>
+              <rdg wit="#B">Com</rdg>
+              <rdg wit="#C">Com</rdg>
+              <rdg wit="#P">Com</rdg>
+              <rdg wit="#R">Com</rdg>
+              <rdg wit="#S">Com</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">celui</rdg>
+              <rdg wit="#B">celui</rdg>
+              <rdg wit="#C">celui</rdg>
+              <rdg wit="#P">celui</rdg>
+              <rdg wit="#R">celui</rdg>
+              <rdg wit="#S">celui</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">qu'Alixandre</rdg>
+              <rdg wit="#B">q'alixandre</rdg>
+              <rdg wit="#C">qu'Alixandre</rdg>
+              <rdg wit="#P">k'Alixandre</rdg>
+              <rdg wit="#R">qu'alixandre</rdg>
+              <rdg wit="#S">qu'Alixandre</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">ot</rdg>
+              <rdg wit="#B">ot</rdg>
+              <rdg wit="#C">ot</rdg>
+              <rdg wit="#P">eut</rdg>
+              <rdg wit="#R">out</rdg>
+              <rdg wit="#S">ot</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="14">
+          <root>
+            <app>
+              <rdg wit="#A">Mes</rdg>
+              <rdg wit="#B">Mais</rdg>
+              <rdg wit="#C">Mais</rdg>
+              <rdg wit="#P">Mais</rdg>
+              <rdg wit="#R">Mais</rdg>
+              <rdg wit="#S">Mais</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">cil</rdg>
+              <rdg wit="#B">cil</rdg>
+              <rdg wit="#C">cil</rdg>
+              <rdg wit="#P">cil</rdg>
+              <rdg wit="#R">cil</rdg>
+              <rdg wit="#S">cil</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">ne</rdg>
+              <rdg wit="#B">et</rdg>
+              <rdg wit="#C">ne</rdg>
+              <rdg wit="#P">ne</rdg>
+              <rdg wit="#R">ne</rdg>
+              <rdg wit="#S">ne</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">cele</rdg>
+              <rdg wit="#B">cele</rdg>
+              <rdg wit="#C">cele</rdg>
+              <rdg wit="#P">cele</rdg>
+              <rdg wit="#R">cele</rdg>
+              <rdg wit="#S">sele</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">ne</rdg>
+              <rdg wit="#B">n'en</rdg>
+              <rdg wit="#C">n'en</rdg>
+              <rdg wit="#P">ne</rdg>
+              <rdg wit="#R">n'en</rdg>
+              <rdg wit="#S">ne</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">le</rdg>
+              <rdg wit="#B">sent</rdg>
+              <rdg wit="#C">set</rdg>
+              <rdg wit="#P">le</rdg>
+              <rdg wit="#R">set</rdg>
+              <rdg wit="#S">lo</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">sot</rdg>
+              <rdg wit="#B">mot</rdg>
+              <rdg wit="#C">mor</rdg>
+              <rdg wit="#P">seut</rdg>
+              <rdg wit="#R">mot</rdg>
+              <rdg wit="#S">sot</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="15">
+          <root>
+            <app>
+              <rdg wit="#A">Cest</rdg>
+              <rdg wit="#B">Ce</rdg>
+              <rdg wit="#C">S'est</rdg>
+              <rdg wit="#P">Cest</rdg>
+              <rdg wit="#R">Cest</rdg>
+              <rdg wit="#S">Cest</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">granz</rdg>
+              <rdg wit="#B">est</rdg>
+              <rdg wit="#C">granz</rdg>
+              <rdg wit="#P">grans</rdg>
+              <rdg wit="#S">granz</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">enuiz</rdg>
+              <rdg wit="#B">grant</rdg>
+              <rdg wit="#C">ennuiz</rdg>
+              <rdg wit="#P">anuis</rdg>
+              <rdg wit="#R">grant</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">que</rdg>
+              <rdg wit="#B">dolor</rdg>
+              <rdg wit="#R">ennuis</rdg>
+              <rdg wit="#S">enuis</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">qu'il</rdg>
+              <rdg wit="#C">quant</rdg>
+              <rdg wit="#P">quant</rdg>
+              <rdg wit="#R">quant</rdg>
+              <rdg wit="#S">quant</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">il</rdg>
+              <rdg wit="#B">le</rdg>
+              <rdg wit="#C">il</rdg>
+              <rdg wit="#P">il</rdg>
+              <rdg wit="#R">il</rdg>
+              <rdg wit="#S">il</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">nel</rdg>
+              <rdg wit="#C">nel</rdg>
+              <rdg wit="#P">nel</rdg>
+              <rdg wit="#R">ne</rdg>
+              <rdg wit="#S">ne</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">sevent</rdg>
+              <rdg wit="#B">sevent</rdg>
+              <rdg wit="#C">sevent</rdg>
+              <rdg wit="#P">sevent</rdg>
+              <rdg wit="#R">sevent</rdg>
+              <rdg wit="#S">sevent</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="16">
+          <root>
+            <app>
+              <rdg wit="#A">Au</rdg>
+              <rdg wit="#B">Al</rdg>
+              <rdg wit="#C">Au</rdg>
+              <rdg wit="#P">Au</rdg>
+              <rdg wit="#R">Al</rdg>
+              <rdg wit="#S">O</rdg>
+            </app>
+            <app>
+              <rdg wit="#S">ou</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">port</rdg>
+              <rdg wit="#B">port</rdg>
+              <rdg wit="#C">port</rdg>
+              <rdg wit="#P">port</rdg>
+              <rdg wit="#R">port</rdg>
+              <rdg wit="#S">port</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">ou</rdg>
+              <rdg wit="#B">u</rdg>
+              <rdg wit="#C">ou</rdg>
+              <rdg wit="#P">u</rdg>
+              <rdg wit="#R">ou</rdg>
+              <rdg wit="#S">ou</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">il</rdg>
+              <rdg wit="#B">li</rdg>
+              <rdg wit="#C">li</rdg>
+              <rdg wit="#P">li</rdg>
+              <rdg wit="#R">li</rdg>
+              <rdg wit="#S">li</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">vaslet</rdg>
+              <rdg wit="#B">vallet</rdg>
+              <rdg wit="#C">vallet</rdg>
+              <rdg wit="#P">valler</rdg>
+              <rdg wit="#R">vaslet</rdg>
+              <rdg wit="#S">vallet</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">se</rdg>
+              <rdg wit="#B">se</rdg>
+              <rdg wit="#C">se</rdg>
+              <rdg wit="#P">se</rdg>
+              <rdg wit="#R">se</rdg>
+              <rdg wit="#S">se</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">levent</rdg>
+              <rdg wit="#B">levent</rdg>
+              <rdg wit="#C">levent</rdg>
+              <rdg wit="#P">levent</rdg>
+              <rdg wit="#R">levent</rdg>
+              <rdg wit="#S">levent</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="17">
+          <root>
+            <app>
+              <rdg wit="#A">Vint</rdg>
+              <rdg wit="#B">Vint</rdg>
+              <rdg wit="#C">Vint</rdg>
+              <rdg wit="#P">Vint</rdg>
+              <rdg wit="#R">Vint</rdg>
+              <rdg wit="#S">Vint</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">li</rdg>
+              <rdg wit="#B">li</rdg>
+              <rdg wit="#C">li</rdg>
+              <rdg wit="#P">li</rdg>
+              <rdg wit="#R">li</rdg>
+              <rdg wit="#S">li</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">messages</rdg>
+              <rdg wit="#B">message</rdg>
+              <rdg wit="#C">messages</rdg>
+              <rdg wit="#P">messages</rdg>
+              <rdg wit="#R">messages</rdg>
+              <rdg wit="#S">vallez</rdg>
+            </app>
+            <app>
+              <rdg wit="#S">a</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">la</rdg>
+              <rdg wit="#B">la</rdg>
+              <rdg wit="#C">la</rdg>
+              <rdg wit="#P">la</rdg>
+              <rdg wit="#R">la</rdg>
+              <rdg wit="#S">la</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">reine</rdg>
+              <rdg wit="#B">roine</rdg>
+              <rdg wit="#C">reine</rdg>
+              <rdg wit="#P">roine</rdg>
+              <rdg wit="#R">roine</rdg>
+              <rdg wit="#S">reine</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="18">
+          <root>
+            <app>
+              <rdg wit="#A">Le</rdg>
+              <rdg wit="#B">Le</rdg>
+              <rdg wit="#C">Le</rdg>
+              <rdg wit="#P">Les</rdg>
+              <rdg wit="#R">Les</rdg>
+              <rdg wit="#S">Les</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">vaslet</rdg>
+              <rdg wit="#B">valles</rdg>
+              <rdg wit="#C">vallet</rdg>
+              <rdg wit="#P">valles</rdg>
+              <rdg wit="#R">vaslez</rdg>
+              <rdg wit="#S">vallez</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">trueve</rdg>
+              <rdg wit="#B">trove</rdg>
+              <rdg wit="#C">trueve</rdg>
+              <rdg wit="#P">trueve</rdg>
+              <rdg wit="#R">trueve</rdg>
+              <rdg wit="#S">trove</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">an</rdg>
+              <rdg wit="#B">en</rdg>
+              <rdg wit="#C">en</rdg>
+              <rdg wit="#P">en</rdg>
+              <rdg wit="#R">en</rdg>
+              <rdg wit="#S">soz</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">la</rdg>
+              <rdg wit="#B">la</rdg>
+              <rdg wit="#C">la</rdg>
+              <rdg wit="#P">la</rdg>
+              <rdg wit="#R">la</rdg>
+              <rdg wit="#S">la</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">marine</rdg>
+              <rdg wit="#B">gaudine</rdg>
+              <rdg wit="#C">marine</rdg>
+              <rdg wit="#P">marine</rdg>
+              <rdg wit="#R">marine</rdg>
+              <rdg wit="#S">rive</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="19">
+          <root>
+            <app>
+              <rdg wit="#A">S'a</rdg>
+              <rdg wit="#B">S'a</rdg>
+              <rdg wit="#C">S'a</rdg>
+              <rdg wit="#P">S'a</rdg>
+              <rdg wit="#R">S'a</rdg>
+              <rdg wit="#S">S'a</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">la</rdg>
+              <rdg wit="#B">la</rdg>
+              <rdg wit="#C">la</rdg>
+              <rdg wit="#P">la</rdg>
+              <rdg wit="#R">la</rdg>
+              <rdg wit="#S">la</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">chemise</rdg>
+              <rdg wit="#B">cemise</rdg>
+              <rdg wit="#C">chemise</rdg>
+              <rdg wit="#P">cemise</rdg>
+              <rdg wit="#R">chemise</rdg>
+              <rdg wit="#S">chemisse</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">presantee</rdg>
+              <rdg wit="#B">presentee</rdg>
+              <rdg wit="#C">presentee</rdg>
+              <rdg wit="#P">presentee</rdg>
+              <rdg wit="#R">presentee</rdg>
+              <rdg wit="#S">presentee</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="20">
+          <root>
+            <app>
+              <rdg wit="#A">Celui</rdg>
+              <rdg wit="#B">Celui</rdg>
+              <rdg wit="#C">Celui</rdg>
+              <rdg wit="#P">Celui</rdg>
+              <rdg wit="#R">Celui</rdg>
+              <rdg wit="#S">Celui</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">cui</rdg>
+              <rdg wit="#B">qui</rdg>
+              <rdg wit="#C">qui</rdg>
+              <rdg wit="#P">cui</rdg>
+              <rdg wit="#R">cui</rdg>
+              <rdg wit="#S">cui</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">ele</rdg>
+              <rdg wit="#B">ele</rdg>
+              <rdg wit="#C">ele</rdg>
+              <rdg wit="#P">le</rdg>
+              <rdg wit="#R">ele</rdg>
+              <rdg wit="#S">elle</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">molt</rdg>
+              <rdg wit="#B">mius</rdg>
+              <rdg wit="#C">molt</rdg>
+              <rdg wit="#P">molt</rdg>
+              <rdg wit="#R">molt</rdg>
+              <rdg wit="#S">molt</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">agree</rdg>
+              <rdg wit="#B">agree</rdg>
+              <rdg wit="#C">agree</rdg>
+              <rdg wit="#P">agre</rdg>
+              <rdg wit="#R">agree</rdg>
+              <rdg wit="#S">agree</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="21">
+          <root>
+            <app>
+              <rdg wit="#A">Et</rdg>
+              <rdg wit="#B">Et</rdg>
+              <rdg wit="#C">Mais</rdg>
+              <rdg wit="#P">Et</rdg>
+              <rdg wit="#R">Et</rdg>
+              <rdg wit="#S">Et</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">por</rdg>
+              <rdg wit="#B">par</rdg>
+              <rdg wit="#C">por</rdg>
+              <rdg wit="#P">por</rdg>
+              <rdg wit="#R">por</rdg>
+              <rdg wit="#S">por</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">ce</rdg>
+              <rdg wit="#B">ce</rdg>
+              <rdg wit="#C">ce</rdg>
+              <rdg wit="#P">cou</rdg>
+              <rdg wit="#R">ce</rdg>
+              <rdg wit="#S">ce</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">plus</rdg>
+              <rdg wit="#B">plus</rdg>
+              <rdg wit="#C">plus</rdg>
+              <rdg wit="#P">plus</rdg>
+              <rdg wit="#R">plus</rdg>
+              <rdg wit="#S">plus</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">chiere</rdg>
+              <rdg wit="#B">chierre</rdg>
+              <rdg wit="#C">chiere</rdg>
+              <rdg wit="#P">ciere</rdg>
+              <rdg wit="#R">chere</rdg>
+              <rdg wit="#S">chiere</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">la</rdg>
+              <rdg wit="#B">le</rdg>
+              <rdg wit="#C">la</rdg>
+              <rdg wit="#P">le</rdg>
+              <rdg wit="#R">la</rdg>
+              <rdg wit="#S">la</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">tint</rdg>
+              <rdg wit="#B">tint</rdg>
+              <rdg wit="#C">tint</rdg>
+              <rdg wit="#P">tient</rdg>
+              <rdg wit="#R">tint</rdg>
+              <rdg wit="#S">tient</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="22">
+          <root>
+            <app>
+              <rdg wit="#A">Que</rdg>
+              <rdg wit="#B">Que</rdg>
+              <rdg wit="#C">Que</rdg>
+              <rdg wit="#P">Que</rdg>
+              <rdg wit="#R">Que</rdg>
+              <rdg wit="#S">Que</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">devers</rdg>
+              <rdg wit="#B">devers</rdg>
+              <rdg wit="#C">depar</rdg>
+              <rdg wit="#P">devers</rdg>
+              <rdg wit="#R">devers</rdg>
+              <rdg wit="#S">de</rdg>
+            </app>
+            <app>
+              <rdg wit="#S">par</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">la</rdg>
+              <rdg wit="#B">la</rdg>
+              <rdg wit="#C">la</rdg>
+              <rdg wit="#P">la</rdg>
+              <rdg wit="#R">la</rdg>
+              <rdg wit="#S">la</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">reine</rdg>
+              <rdg wit="#B">roine</rdg>
+              <rdg wit="#C">reine</rdg>
+              <rdg wit="#P">roine</rdg>
+              <rdg wit="#R">roine</rdg>
+              <rdg wit="#S">reine</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">vint</rdg>
+              <rdg wit="#B">vint</rdg>
+              <rdg wit="#C">vint</rdg>
+              <rdg wit="#P">vint</rdg>
+              <rdg wit="#R">vint</rdg>
+              <rdg wit="#S">vient</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="23">
+          <root>
+            <app>
+              <rdg wit="#A">Mes</rdg>
+              <rdg wit="#B">Mais</rdg>
+              <rdg wit="#C">Et</rdg>
+              <rdg wit="#P">Mais</rdg>
+              <rdg wit="#R">Et</rdg>
+              <rdg wit="#S">Mais</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">s'il</rdg>
+              <rdg wit="#B">s'il</rdg>
+              <rdg wit="#C">s'il</rdg>
+              <rdg wit="#P">s'il</rdg>
+              <rdg wit="#R">s'il</rdg>
+              <rdg wit="#S">s'il</rdg>
+            </app>
+            <app>
+              <rdg wit="#P">i</rdg>
+              <rdg wit="#S">saust</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">seust</rdg>
+              <rdg wit="#B">seust</rdg>
+              <rdg wit="#C">seust</rdg>
+              <rdg wit="#P">seust</rdg>
+              <rdg wit="#R">seust</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">le</rdg>
+              <rdg wit="#B">le</rdg>
+              <rdg wit="#C">le</rdg>
+              <rdg wit="#P">le</rdg>
+              <rdg wit="#R">le</rdg>
+              <rdg wit="#S">le</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">soreplus</rdg>
+              <rdg wit="#B">soreplus</rdg>
+              <rdg wit="#C">soreplus</rdg>
+              <rdg wit="#P">sorplus</rdg>
+              <rdg wit="#R">sorplus</rdg>
+              <rdg wit="#S">soreplus</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="24">
+          <root>
+            <app>
+              <rdg wit="#A">Ancor</rdg>
+              <rdg wit="#B">Il</rdg>
+              <rdg wit="#C">Encor</rdg>
+              <rdg wit="#P">Encor</rdg>
+              <rdg wit="#R">Encor</rdg>
+              <rdg wit="#S">Encor</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">l'amast</rdg>
+              <rdg wit="#B">l'amast</rdg>
+              <rdg wit="#C">l'amast</rdg>
+              <rdg wit="#P">l'amast</rdg>
+              <rdg wit="#R">l'amast</rdg>
+              <rdg wit="#S">l'amast</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">il</rdg>
+              <rdg wit="#B">encor</rdg>
+              <rdg wit="#C">il</rdg>
+              <rdg wit="#P">il</rdg>
+              <rdg wit="#R">il</rdg>
+              <rdg wit="#S">il</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">assez</rdg>
+              <rdg wit="#B">asses</rdg>
+              <rdg wit="#C">assez</rdg>
+              <rdg wit="#P">asses</rdg>
+              <rdg wit="#R">assez</rdg>
+              <rdg wit="#S">assez</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">plus</rdg>
+              <rdg wit="#B">plus</rdg>
+              <rdg wit="#C">plus</rdg>
+              <rdg wit="#P">plus</rdg>
+              <rdg wit="#R">plus</rdg>
+              <rdg wit="#S">plus</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="25">
+          <root>
+            <app>
+              <rdg wit="#A">[58e]</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">Car</rdg>
+              <rdg wit="#B">Car</rdg>
+              <rdg wit="#C">Car</rdg>
+              <rdg wit="#P">Car</rdg>
+              <rdg wit="#R">Quar</rdg>
+              <rdg wit="#S">Car</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">an</rdg>
+              <rdg wit="#B">en</rdg>
+              <rdg wit="#C">en</rdg>
+              <rdg wit="#P">en</rdg>
+              <rdg wit="#R">a</rdg>
+              <rdg wit="#S">nul</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">eschange</rdg>
+              <rdg wit="#B">escange</rdg>
+              <rdg wit="#C">eschange</rdg>
+              <rdg wit="#P">escange</rdg>
+              <rdg wit="#R">eschange</rdg>
+              <rdg wit="#S">eschange</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">n'an</rdg>
+              <rdg wit="#B">n'em</rdg>
+              <rdg wit="#C">na</rdg>
+              <rdg wit="#P">n'en</rdg>
+              <rdg wit="#R">n'en</rdg>
+              <rdg wit="#S">n'en</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">preist</rdg>
+              <rdg wit="#B">presist</rdg>
+              <rdg wit="#C">preist</rdg>
+              <rdg wit="#P">presist</rdg>
+              <rdg wit="#R">preist</rdg>
+              <rdg wit="#S">preist</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="26">
+          <root>
+            <app>
+              <rdg wit="#B">Trestot</rdg>
+              <rdg wit="#C">Trestout</rdg>
+              <rdg wit="#R">Trestot</rdg>
+              <rdg wit="#S">[29b]</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">Tot</rdg>
+              <rdg wit="#P">Tot</rdg>
+              <rdg wit="#S">Tot</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">le</rdg>
+              <rdg wit="#B">le</rdg>
+              <rdg wit="#C">le</rdg>
+              <rdg wit="#P">le</rdg>
+              <rdg wit="#R">le</rdg>
+              <rdg wit="#S">le</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">monde</rdg>
+              <rdg wit="#B">mont</rdg>
+              <rdg wit="#C">monde</rdg>
+              <rdg wit="#P">monde</rdg>
+              <rdg wit="#R">mont</rdg>
+              <rdg wit="#S">monde</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">qui</rdg>
+              <rdg wit="#B">ains</rdg>
+              <rdg wit="#C">einz</rdg>
+              <rdg wit="#P">ancois</rdg>
+              <rdg wit="#R">ainz</rdg>
+              <rdg wit="#S">ancois</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">li</rdg>
+              <rdg wit="#B">en</rdg>
+              <rdg wit="#C">en</rdg>
+              <rdg wit="#P">en</rdg>
+              <rdg wit="#R">en</rdg>
+              <rdg wit="#S">en</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">meist</rdg>
+              <rdg wit="#B">fesist</rdg>
+              <rdg wit="#C">feist</rdg>
+              <rdg wit="#P">fesist</rdg>
+              <rdg wit="#R">feist</rdg>
+              <rdg wit="#S">feist</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="27">
+          <root>
+            <app>
+              <rdg wit="#B">Saintuaire</rdg>
+              <rdg wit="#C">Sentuaire</rdg>
+              <rdg wit="#P">Une</rdg>
+              <rdg wit="#R">Saintuarie</rdg>
+              <rdg wit="#S">Seintuayre</rdg>
+            </app>
+            <app>
+              <rdg wit="#P">ymage</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">si</rdg>
+              <rdg wit="#C">si</rdg>
+              <rdg wit="#P">si</rdg>
+              <rdg wit="#R">si</rdg>
+              <rdg wit="#S">si</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">com</rdg>
+              <rdg wit="#C">com</rdg>
+              <rdg wit="#P">com</rdg>
+              <rdg wit="#R">com</rdg>
+              <rdg wit="#S">com</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">jo</rdg>
+              <rdg wit="#C">je</rdg>
+              <rdg wit="#P">je</rdg>
+              <rdg wit="#R">je</rdg>
+              <rdg wit="#S">je</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">quit</rdg>
+              <rdg wit="#C">cuit</rdg>
+              <rdg wit="#P">cuit</rdg>
+              <rdg wit="#R">cuit</rdg>
+              <rdg wit="#S">cuit</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="28">
+          <root>
+            <app>
+              <rdg wit="#B">Si</rdg>
+              <rdg wit="#C">Si</rdg>
+              <rdg wit="#P">Si</rdg>
+              <rdg wit="#R">S'il</rdg>
+              <rdg wit="#S">Et</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">l'aorast</rdg>
+              <rdg wit="#C">l'aorast</rdg>
+              <rdg wit="#P">l'aorast</rdg>
+              <rdg wit="#R">l'aorast</rdg>
+              <rdg wit="#S">l'aorast</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">et</rdg>
+              <rdg wit="#C">et</rdg>
+              <rdg wit="#P">et</rdg>
+              <rdg wit="#R">et</rdg>
+              <rdg wit="#S">et</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">jor</rdg>
+              <rdg wit="#C">jor</rdg>
+              <rdg wit="#P">jor</rdg>
+              <rdg wit="#R">jor</rdg>
+              <rdg wit="#S">jor</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">et</rdg>
+              <rdg wit="#C">et</rdg>
+              <rdg wit="#P">et</rdg>
+              <rdg wit="#R">et</rdg>
+              <rdg wit="#S">et</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">nuit</rdg>
+              <rdg wit="#C">nuit</rdg>
+              <rdg wit="#P">nuit</rdg>
+              <rdg wit="#R">nuist</rdg>
+              <rdg wit="#S">nuit</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="29">
+          <root>
+            <app>
+              <rdg wit="#A">Alixandre</rdg>
+              <rdg wit="#B">Alixandre</rdg>
+              <rdg wit="#C">Alixandre</rdg>
+              <rdg wit="#P">Alixandre</rdg>
+              <rdg wit="#R">Alixandre</rdg>
+              <rdg wit="#S">Alixandre</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">plus</rdg>
+              <rdg wit="#B">plus</rdg>
+              <rdg wit="#C">plus</rdg>
+              <rdg wit="#P">plus</rdg>
+              <rdg wit="#R">plus</rdg>
+              <rdg wit="#S">plus</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">ne</rdg>
+              <rdg wit="#B">n'i</rdg>
+              <rdg wit="#C">ne</rdg>
+              <rdg wit="#P">ne</rdg>
+              <rdg wit="#R">ne</rdg>
+              <rdg wit="#S">n'i</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">demore</rdg>
+              <rdg wit="#B">demore</rdg>
+              <rdg wit="#C">demore</rdg>
+              <rdg wit="#P">demeure</rdg>
+              <rdg wit="#R">demore</rdg>
+              <rdg wit="#S">demore</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="30">
+          <root>
+            <app>
+              <rdg wit="#A">Qu'il</rdg>
+              <rdg wit="#B">Que</rdg>
+              <rdg wit="#C">Qu'il</rdg>
+              <rdg wit="#P">Qu'il</rdg>
+              <rdg wit="#R">Qu'il</rdg>
+              <rdg wit="#S">Qu'il</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">il</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">ne</rdg>
+              <rdg wit="#B">ne</rdg>
+              <rdg wit="#C">ne</rdg>
+              <rdg wit="#P">ne</rdg>
+              <rdg wit="#R">ne</rdg>
+              <rdg wit="#S">ne</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">se</rdg>
+              <rdg wit="#B">se</rdg>
+              <rdg wit="#C">se</rdg>
+              <rdg wit="#P">se</rdg>
+              <rdg wit="#R">se</rdg>
+              <rdg wit="#S">se</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">veste</rdg>
+              <rdg wit="#B">veste</rdg>
+              <rdg wit="#C">veste</rdg>
+              <rdg wit="#P">veste</rdg>
+              <rdg wit="#R">veste</rdg>
+              <rdg wit="#S">veste</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">en</rdg>
+              <rdg wit="#B">en</rdg>
+              <rdg wit="#C">en</rdg>
+              <rdg wit="#P">en</rdg>
+              <rdg wit="#R">en</rdg>
+              <rdg wit="#S">en</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">icele</rdg>
+              <rdg wit="#B">cele</rdg>
+              <rdg wit="#C">icele</rdg>
+              <rdg wit="#P">icele</rdg>
+              <rdg wit="#R">icele</rdg>
+              <rdg wit="#S">icele</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">ore</rdg>
+              <rdg wit="#B">ore</rdg>
+              <rdg wit="#C">hore</rdg>
+              <rdg wit="#P">eure</rdg>
+              <rdg wit="#R">ore</rdg>
+              <rdg wit="#S">oure</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="31">
+          <root>
+            <app>
+              <rdg wit="#P">[270a]</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">Quant</rdg>
+              <rdg wit="#B">Quant</rdg>
+              <rdg wit="#C">Quant</rdg>
+              <rdg wit="#P">Quant</rdg>
+              <rdg wit="#R">Quant</rdg>
+              <rdg wit="#S">Quant</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">vestuz</rdg>
+              <rdg wit="#C">vestuz</rdg>
+              <rdg wit="#R">vestu</rdg>
+              <rdg wit="#S">vestuz</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">fu</rdg>
+              <rdg wit="#B">fu</rdg>
+              <rdg wit="#C">fu</rdg>
+              <rdg wit="#P">fu</rdg>
+              <rdg wit="#R">fu</rdg>
+              <rdg wit="#S">fu</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">vestus</rdg>
+              <rdg wit="#P">vestus</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">et</rdg>
+              <rdg wit="#B">et</rdg>
+              <rdg wit="#C">et</rdg>
+              <rdg wit="#P">et</rdg>
+              <rdg wit="#R">et</rdg>
+              <rdg wit="#S">et</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">atornez</rdg>
+              <rdg wit="#B">atornes</rdg>
+              <rdg wit="#C">atornez</rdg>
+              <rdg wit="#P">atornes</rdg>
+              <rdg wit="#R">atorne</rdg>
+              <rdg wit="#S">atornes</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="32">
+          <root>
+            <app>
+              <rdg wit="#B">S'est</rdg>
+              <rdg wit="#C">Au</rdg>
+              <rdg wit="#P">Au</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">al</rdg>
+              <rdg wit="#R">Al</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">tref</rdg>
+              <rdg wit="#C">tref</rdg>
+              <rdg wit="#P">tref</rdg>
+              <rdg wit="#R">tref</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">al</rdg>
+              <rdg wit="#C">le</rdg>
+              <rdg wit="#P">le</rdg>
+              <rdg wit="#R">le</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">roi</rdg>
+              <rdg wit="#C">roi</rdg>
+              <rdg wit="#P">roi</rdg>
+              <rdg wit="#R">roi</rdg>
+            </app>
+            <app>
+              <rdg wit="#C">est</rdg>
+              <rdg wit="#P">est</rdg>
+              <rdg wit="#R">est</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">retornes</rdg>
+              <rdg wit="#C">retornez</rdg>
+              <rdg wit="#P">retornes</rdg>
+              <rdg wit="#R">retornez</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="33">
+          <root>
+            <app>
+              <rdg wit="#A">Au</rdg>
+              <rdg wit="#S">Au</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">tres</rdg>
+              <rdg wit="#S">tre</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">le</rdg>
+              <rdg wit="#S">le</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">roi</rdg>
+              <rdg wit="#S">roi</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">s'an</rdg>
+              <rdg wit="#S">en</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">est</rdg>
+              <rdg wit="#S">sont</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">alez</rdg>
+              <rdg wit="#S">ale</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="34">
+          <root>
+            <app>
+              <rdg wit="#A">Et</rdg>
+              <rdg wit="#B">Et</rdg>
+              <rdg wit="#C">Et</rdg>
+              <rdg wit="#P">Et</rdg>
+              <rdg wit="#R">Et</rdg>
+              <rdg wit="#S">Et</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">tuit</rdg>
+              <rdg wit="#B">tot</rdg>
+              <rdg wit="#C">tuit</rdg>
+              <rdg wit="#P">tot</rdg>
+              <rdg wit="#R">tuit</rdg>
+              <rdg wit="#S">tui</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">si</rdg>
+              <rdg wit="#B">si</rdg>
+              <rdg wit="#C">si</rdg>
+              <rdg wit="#P">si</rdg>
+              <rdg wit="#R">si</rdg>
+              <rdg wit="#S">si</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">conpagnon</rdg>
+              <rdg wit="#B">compaignon</rdg>
+              <rdg wit="#C">compeignon</rdg>
+              <rdg wit="#P">compaignon</rdg>
+              <rdg wit="#R">compaignon</rdg>
+              <rdg wit="#S">compaignon</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">ansanble</rdg>
+              <rdg wit="#B">ensamble</rdg>
+              <rdg wit="#C">ensemble</rdg>
+              <rdg wit="#P">ensamble</rdg>
+              <rdg wit="#R">ensemble</rdg>
+              <rdg wit="#S">ansanble</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="35">
+          <root>
+            <app>
+              <rdg wit="#A">La</rdg>
+              <rdg wit="#B">La</rdg>
+              <rdg wit="#C">La</rdg>
+              <rdg wit="#P">La</rdg>
+              <rdg wit="#R">La</rdg>
+              <rdg wit="#S">La</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">reine</rdg>
+              <rdg wit="#B">roine</rdg>
+              <rdg wit="#C">roine</rdg>
+              <rdg wit="#P">roine</rdg>
+              <rdg wit="#R">roine</rdg>
+              <rdg wit="#S">reyne</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">si</rdg>
+              <rdg wit="#B">si</rdg>
+              <rdg wit="#C">si</rdg>
+              <rdg wit="#P">si</rdg>
+              <rdg wit="#R">si</rdg>
+              <rdg wit="#S">si</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">com</rdg>
+              <rdg wit="#B">com</rdg>
+              <rdg wit="#C">com</rdg>
+              <rdg wit="#P">com</rdg>
+              <rdg wit="#R">com</rdg>
+              <rdg wit="#S">com</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">moi</rdg>
+              <rdg wit="#B">mo</rdg>
+              <rdg wit="#C">moi</rdg>
+              <rdg wit="#P">moi</rdg>
+              <rdg wit="#R">me</rdg>
+              <rdg wit="#S">moi</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">sanble</rdg>
+              <rdg wit="#B">samble</rdg>
+              <rdg wit="#C">semble</rdg>
+              <rdg wit="#P">samble</rdg>
+              <rdg wit="#R">samble</rdg>
+              <rdg wit="#S">samble</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="36">
+          <root>
+            <app>
+              <rdg wit="#B">Si</rdg>
+              <rdg wit="#P">Se</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">Fu</rdg>
+              <rdg wit="#B">estoit</rdg>
+              <rdg wit="#C">Fu</rdg>
+              <rdg wit="#P">fu</rdg>
+              <rdg wit="#R">Fu</rdg>
+              <rdg wit="#S">Fu</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">autres</rdg>
+              <rdg wit="#P">venue</rdg>
+              <rdg wit="#R">al</rdg>
+              <rdg wit="#S">trop</rdg>
+            </app>
+            <app>
+              <rdg wit="#C">au</rdg>
+              <rdg wit="#P">au</rdg>
+            </app>
+            <app>
+              <rdg wit="#C">tref</rdg>
+              <rdg wit="#P">tref</rdg>
+              <rdg wit="#R">tref</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">venue</rdg>
+              <rdg wit="#B">venue</rdg>
+              <rdg wit="#C">venue</rdg>
+              <rdg wit="#R">venue</rdg>
+              <rdg wit="#S">venue</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">seoir</rdg>
+              <rdg wit="#B">seoir</rdg>
+              <rdg wit="#C">seoir</rdg>
+              <rdg wit="#P">seoir</rdg>
+              <rdg wit="#R">seoir</rdg>
+              <rdg wit="#S">seoir</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="37">
+          <root>
+            <app>
+              <rdg wit="#C">[90c]</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">Por</rdg>
+              <rdg wit="#B">Por</rdg>
+              <rdg wit="#C">Por</rdg>
+              <rdg wit="#P">Por</rdg>
+              <rdg wit="#R">Por</rdg>
+              <rdg wit="#S">Por</rdg>
+            </app>
+            <app>
+              <rdg wit="#C">ce</rdg>
+              <rdg wit="#P">cou</rdg>
+              <rdg wit="#S">ce</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">ce</rdg>
+              <rdg wit="#B">ce</rdg>
+              <rdg wit="#C">que</rdg>
+              <rdg wit="#R">ce</rdg>
+              <rdg wit="#S">que</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">qu'ele</rdg>
+              <rdg wit="#B">qu'ele</rdg>
+              <rdg wit="#P">qu'ele</rdg>
+              <rdg wit="#R">qu'ele</rdg>
+              <rdg wit="#S">le</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">voloit</rdg>
+              <rdg wit="#B">voloit</rdg>
+              <rdg wit="#C">voloit</rdg>
+              <rdg wit="#P">voloit</rdg>
+              <rdg wit="#R">voloit</rdg>
+              <rdg wit="#S">voloit</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">veoir</rdg>
+              <rdg wit="#B">veoir</rdg>
+              <rdg wit="#C">veoir</rdg>
+              <rdg wit="#P">veoir</rdg>
+              <rdg wit="#R">veoir</rdg>
+              <rdg wit="#S">veoir</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="38">
+          <root>
+            <app>
+              <rdg wit="#A">Les</rdg>
+              <rdg wit="#B">Les</rdg>
+              <rdg wit="#C">Les</rdg>
+              <rdg wit="#P">Les</rdg>
+              <rdg wit="#R">Les</rdg>
+              <rdg wit="#S">Les</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">noviax</rdg>
+              <rdg wit="#B">noviax</rdg>
+              <rdg wit="#C">noviaus</rdg>
+              <rdg wit="#P">noviaus</rdg>
+              <rdg wit="#R">noviax</rdg>
+              <rdg wit="#S">noveuz</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">chevaliers</rdg>
+              <rdg wit="#B">chevaliers</rdg>
+              <rdg wit="#C">chevaliers</rdg>
+              <rdg wit="#P">chevaliers</rdg>
+              <rdg wit="#R">chivaliers</rdg>
+              <rdg wit="#S">chevaliers</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">venir</rdg>
+              <rdg wit="#B">venir</rdg>
+              <rdg wit="#C">venir</rdg>
+              <rdg wit="#P">venir</rdg>
+              <rdg wit="#R">venir</rdg>
+              <rdg wit="#S">venir</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="39">
+          <root>
+            <app>
+              <rdg wit="#A">Por</rdg>
+              <rdg wit="#B">Por</rdg>
+              <rdg wit="#C">Por</rdg>
+              <rdg wit="#P">Por</rdg>
+              <rdg wit="#R">Por</rdg>
+              <rdg wit="#S">Po</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">biax</rdg>
+              <rdg wit="#B">biax</rdg>
+              <rdg wit="#C">biaus</rdg>
+              <rdg wit="#P">biaus</rdg>
+              <rdg wit="#R">biax</rdg>
+              <rdg wit="#S">biauz</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">les</rdg>
+              <rdg wit="#B">les</rdg>
+              <rdg wit="#C">les</rdg>
+              <rdg wit="#P">les</rdg>
+              <rdg wit="#R">les</rdg>
+              <rdg wit="#S">les</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">poist</rdg>
+              <rdg wit="#B">pooit</rdg>
+              <rdg wit="#C">pooit</rdg>
+              <rdg wit="#P">pooit</rdg>
+              <rdg wit="#R">pooit</rdg>
+              <rdg wit="#S">poit</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">an</rdg>
+              <rdg wit="#B">on</rdg>
+              <rdg wit="#C">en</rdg>
+              <rdg wit="#P">on</rdg>
+              <rdg wit="#R">l'em</rdg>
+              <rdg wit="#S">on</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">tenir</rdg>
+              <rdg wit="#B">tenir</rdg>
+              <rdg wit="#C">tenir</rdg>
+              <rdg wit="#P">tenir</rdg>
+              <rdg wit="#R">tenir</rdg>
+              <rdg wit="#S">tenir</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="40">
+          <root>
+            <app>
+              <rdg wit="#A">Mes</rdg>
+              <rdg wit="#B">Mais</rdg>
+              <rdg wit="#C">Mais</rdg>
+              <rdg wit="#R">Mais</rdg>
+              <rdg wit="#S">Mais</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">de</rdg>
+              <rdg wit="#B">de</rdg>
+              <rdg wit="#C">de</rdg>
+              <rdg wit="#R">de</rdg>
+              <rdg wit="#S">de</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">toz</rdg>
+              <rdg wit="#B">tous</rdg>
+              <rdg wit="#C">touz</rdg>
+              <rdg wit="#R">toz</rdg>
+              <rdg wit="#S">toz</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">li</rdg>
+              <rdg wit="#B">li</rdg>
+              <rdg wit="#C">li</rdg>
+              <rdg wit="#R">li</rdg>
+              <rdg wit="#S">li</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">plus</rdg>
+              <rdg wit="#B">plus</rdg>
+              <rdg wit="#C">plus</rdg>
+              <rdg wit="#R">plus</rdg>
+              <rdg wit="#S">plus</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">biax</rdg>
+              <rdg wit="#B">biax</rdg>
+              <rdg wit="#C">biau[s]</rdg>
+              <rdg wit="#R">beax</rdg>
+              <rdg wit="#S">biauz</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">estoit</rdg>
+              <rdg wit="#B">estoit</rdg>
+              <rdg wit="#C">s'estoit</rdg>
+              <rdg wit="#R">estoit</rdg>
+              <rdg wit="#S">estoit</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="41">
+          <root>
+            <app>
+              <rdg wit="#R">[35a]</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">Alixandre</rdg>
+              <rdg wit="#B">Alixandre</rdg>
+              <rdg wit="#C">Alixandre</rdg>
+              <rdg wit="#R">alixandre</rdg>
+              <rdg wit="#S">Alixandre</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">au</rdg>
+              <rdg wit="#B">al</rdg>
+              <rdg wit="#C">au</rdg>
+              <rdg wit="#R">al</rdg>
+              <rdg wit="#S">au</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">cors</rdg>
+              <rdg wit="#B">cors</rdg>
+              <rdg wit="#C">cors</rdg>
+              <rdg wit="#R">cors</rdg>
+              <rdg wit="#S">cors</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">adroit</rdg>
+              <rdg wit="#B">al</rdg>
+              <rdg wit="#C">adroit</rdg>
+              <rdg wit="#R">a</rdg>
+              <rdg wit="#S">adroit</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">droit</rdg>
+              <rdg wit="#R">droit</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="42">
+          <root>
+            <app>
+              <rdg wit="#A">Chevalier</rdg>
+              <rdg wit="#B">Cevalier</rdg>
+              <rdg wit="#C">Chevaliers</rdg>
+              <rdg wit="#P">Chevaliers</rdg>
+              <rdg wit="#R">Chivalier</rdg>
+              <rdg wit="#S">Chivaller</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">sont</rdg>
+              <rdg wit="#B">sont</rdg>
+              <rdg wit="#C">sont</rdg>
+              <rdg wit="#P">sont</rdg>
+              <rdg wit="#R">sunt</rdg>
+              <rdg wit="#S">sont</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">des</rdg>
+              <rdg wit="#B">des</rdg>
+              <rdg wit="#C">des</rdg>
+              <rdg wit="#P">atant</rdg>
+              <rdg wit="#R">des</rdg>
+              <rdg wit="#S">atant</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">or</rdg>
+              <rdg wit="#B">or</rdg>
+              <rdg wit="#C">or</rdg>
+              <rdg wit="#R">or</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">m'an</rdg>
+              <rdg wit="#B">m'en</rdg>
+              <rdg wit="#C">m'en</rdg>
+              <rdg wit="#P">m'en</rdg>
+              <rdg wit="#R">me</rdg>
+              <rdg wit="#S">me</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">tes</rdg>
+              <rdg wit="#B">tes</rdg>
+              <rdg wit="#C">tais</rdg>
+              <rdg wit="#P">tais</rdg>
+              <rdg wit="#R">tais</rdg>
+              <rdg wit="#S">tais</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="43">
+          <root>
+            <app>
+              <rdg wit="#A">Del</rdg>
+              <rdg wit="#B">De</rdg>
+              <rdg wit="#C">De</rdg>
+              <rdg wit="#P">Del</rdg>
+              <rdg wit="#R">De</rdg>
+              <rdg wit="#S">Do</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">roi</rdg>
+              <rdg wit="#B">l'ost</rdg>
+              <rdg wit="#C">l'ost</rdg>
+              <rdg wit="#P">roi</rdg>
+              <rdg wit="#R">l'ost</rdg>
+              <rdg wit="#S">roy</rdg>
+            </app>
+            <app>
+              <rdg wit="#P">ne</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">parlerai</rdg>
+              <rdg wit="#B">parlerai</rdg>
+              <rdg wit="#C">parlerai</rdg>
+              <rdg wit="#P">parlerai</rdg>
+              <rdg wit="#R">parlerai</rdg>
+              <rdg wit="#S">parlerai</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">desormes</rdg>
+              <rdg wit="#B">desormes</rdg>
+              <rdg wit="#C">desormais</rdg>
+              <rdg wit="#P">or</rdg>
+              <rdg wit="#R">des</rdg>
+              <rdg wit="#S">desormais</rdg>
+            </app>
+            <app>
+              <rdg wit="#P">mais</rdg>
+              <rdg wit="#R">ormais</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="44">
+          <root>
+            <app>
+              <rdg wit="#A">Et</rdg>
+              <rdg wit="#B">Et</rdg>
+              <rdg wit="#C">Et</rdg>
+              <rdg wit="#P">Et</rdg>
+              <rdg wit="#R">Et</rdg>
+              <rdg wit="#S">Et</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">de</rdg>
+              <rdg wit="#B">del</rdg>
+              <rdg wit="#C">dou</rdg>
+              <rdg wit="#P">de</rdg>
+              <rdg wit="#R">del</rdg>
+              <rdg wit="#S">de</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">l'ost</rdg>
+              <rdg wit="#B">roi</rdg>
+              <rdg wit="#C">roi</rdg>
+              <rdg wit="#P">l'ost</rdg>
+              <rdg wit="#R">roi</rdg>
+              <rdg wit="#S">l'ost</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">qui</rdg>
+              <rdg wit="#B">qui</rdg>
+              <rdg wit="#C">qui</rdg>
+              <rdg wit="#P">qui</rdg>
+              <rdg wit="#R">qui</rdg>
+              <rdg wit="#S">qui</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">a</rdg>
+              <rdg wit="#B">a</rdg>
+              <rdg wit="#C">a</rdg>
+              <rdg wit="#P">a</rdg>
+              <rdg wit="#R">a</rdg>
+              <rdg wit="#S">a</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">Londres</rdg>
+              <rdg wit="#B">londres</rdg>
+              <rdg wit="#C">Londres</rdg>
+              <rdg wit="#P">Londres</rdg>
+              <rdg wit="#R">londres</rdg>
+              <rdg wit="#S">Landres</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">vint</rdg>
+              <rdg wit="#B">vint</rdg>
+              <rdg wit="#C">vint</rdg>
+              <rdg wit="#P">vint</rdg>
+              <rdg wit="#R">vint</rdg>
+              <rdg wit="#S">vint</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="45">
+          <root>
+            <app>
+              <rdg wit="#A">Li</rdg>
+              <rdg wit="#B">Li</rdg>
+              <rdg wit="#C">Li</rdg>
+              <rdg wit="#P">Li</rdg>
+              <rdg wit="#R">Li</rdg>
+              <rdg wit="#S">Li</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">plus</rdg>
+              <rdg wit="#B">plus</rdg>
+              <rdg wit="#C">plus</rdg>
+              <rdg wit="#P">plus</rdg>
+              <rdg wit="#R">plus</rdg>
+              <rdg wit="#S">plus</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">des</rdg>
+              <rdg wit="#B">dess-jens</rdg>
+              <rdg wit="#C">des</rdg>
+              <rdg wit="#P">des</rdg>
+              <rdg wit="#R">des</rdg>
+              <rdg wit="#S">des</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">genz</rdg>
+              <rdg wit="#B">avolc</rdg>
+              <rdg wit="#C">genz</rdg>
+              <rdg wit="#P">gens</rdg>
+              <rdg wit="#R">genz</rdg>
+              <rdg wit="#S">janz</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">a</rdg>
+              <rdg wit="#C">a</rdg>
+              <rdg wit="#P">a</rdg>
+              <rdg wit="#R">a</rdg>
+              <rdg wit="#S">a</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">lui</rdg>
+              <rdg wit="#B">lui</rdg>
+              <rdg wit="#C">lui</rdg>
+              <rdg wit="#P">lui</rdg>
+              <rdg wit="#R">lui</rdg>
+              <rdg wit="#S">lui</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">se</rdg>
+              <rdg wit="#B">vint</rdg>
+              <rdg wit="#C">se</rdg>
+              <rdg wit="#P">se</rdg>
+              <rdg wit="#R">se</rdg>
+              <rdg wit="#S">se</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">tint</rdg>
+              <rdg wit="#C">tint</rdg>
+              <rdg wit="#P">tint</rdg>
+              <rdg wit="#R">tint</rdg>
+              <rdg wit="#S">tin</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="46">
+          <root>
+            <app>
+              <rdg wit="#A">Et</rdg>
+              <rdg wit="#B">Encontre</rdg>
+              <rdg wit="#C">Encontre</rdg>
+              <rdg wit="#P">Encontre</rdg>
+              <rdg wit="#R">Encontre</rdg>
+              <rdg wit="#S">Encontre</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">contre</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">lui</rdg>
+              <rdg wit="#B">lui</rdg>
+              <rdg wit="#C">lui</rdg>
+              <rdg wit="#P">lui</rdg>
+              <rdg wit="#R">lui</rdg>
+              <rdg wit="#S">lui</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">an</rdg>
+              <rdg wit="#B">en</rdg>
+              <rdg wit="#C">en</rdg>
+              <rdg wit="#P">en</rdg>
+              <rdg wit="#R">en</rdg>
+              <rdg wit="#S">en</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">ra</rdg>
+              <rdg wit="#B">tot</rdg>
+              <rdg wit="#C">ra</rdg>
+              <rdg wit="#P">va</rdg>
+              <rdg wit="#R">ot</rdg>
+              <rdg wit="#S">i</rdg>
+            </app>
+            <app>
+              <rdg wit="#S">a</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">grant</rdg>
+              <rdg wit="#B">grant</rdg>
+              <rdg wit="#C">grant</rdg>
+              <rdg wit="#P">grant</rdg>
+              <rdg wit="#R">grant</rdg>
+              <rdg wit="#S">grant</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">masse</rdg>
+              <rdg wit="#B">masse</rdg>
+              <rdg wit="#C">masse</rdg>
+              <rdg wit="#P">masse</rdg>
+              <rdg wit="#R">masse</rdg>
+              <rdg wit="#S">masse</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="47">
+          <root>
+            <app>
+              <rdg wit="#A">Li</rdg>
+              <rdg wit="#B">Li</rdg>
+              <rdg wit="#C">Li</rdg>
+              <rdg wit="#P">Li</rdg>
+              <rdg wit="#R">Li</rdg>
+              <rdg wit="#S">Li</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">cuens</rdg>
+              <rdg wit="#B">quens</rdg>
+              <rdg wit="#C">cuens</rdg>
+              <rdg wit="#P">cuens</rdg>
+              <rdg wit="#R">quens</rdg>
+              <rdg wit="#S">cuens</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">Angres</rdg>
+              <rdg wit="#B">engres</rdg>
+              <rdg wit="#C">Engres</rdg>
+              <rdg wit="#P">Engres</rdg>
+              <rdg wit="#R">engres</rdg>
+              <rdg wit="#S">Angres</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">ses</rdg>
+              <rdg wit="#B">sa</rdg>
+              <rdg wit="#C">ses</rdg>
+              <rdg wit="#P">ses</rdg>
+              <rdg wit="#R">ses</rdg>
+              <rdg wit="#S">ses</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">genz</rdg>
+              <rdg wit="#B">gent</rdg>
+              <rdg wit="#C">genz</rdg>
+              <rdg wit="#P">gens</rdg>
+              <rdg wit="#R">gens</rdg>
+              <rdg wit="#S">janz</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">amasse</rdg>
+              <rdg wit="#B">amasse</rdg>
+              <rdg wit="#C">amasse</rdg>
+              <rdg wit="#P">amasse</rdg>
+              <rdg wit="#R">amasse</rdg>
+              <rdg wit="#S">amasse</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="48">
+          <root>
+            <app>
+              <rdg wit="#A">Quan</rdg>
+              <rdg wit="#B">Quanque</rdg>
+              <rdg wit="#C">Quanque</rdg>
+              <rdg wit="#P">Quant</rdg>
+              <rdg wit="#R">Quanques</rdg>
+              <rdg wit="#S">Quant</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">que</rdg>
+              <rdg wit="#S">que</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">vers</rdg>
+              <rdg wit="#B">vers</rdg>
+              <rdg wit="#C">vers</rdg>
+              <rdg wit="#P">vers</rdg>
+              <rdg wit="#R">vers</rdg>
+              <rdg wit="#S">vers</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">lui</rdg>
+              <rdg wit="#B">lui</rdg>
+              <rdg wit="#C">lui</rdg>
+              <rdg wit="#P">lui</rdg>
+              <rdg wit="#R">lui</rdg>
+              <rdg wit="#S">lui</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">an</rdg>
+              <rdg wit="#B">en</rdg>
+              <rdg wit="#C">en</rdg>
+              <rdg wit="#P">en</rdg>
+              <rdg wit="#R">en</rdg>
+              <rdg wit="#S">an</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">pot</rdg>
+              <rdg wit="#B">pot</rdg>
+              <rdg wit="#C">por</rdg>
+              <rdg wit="#P">puet</rdg>
+              <rdg wit="#R">puet</rdg>
+              <rdg wit="#S">post</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">torner</rdg>
+              <rdg wit="#B">torner</rdg>
+              <rdg wit="#C">trover</rdg>
+              <rdg wit="#P">torner</rdg>
+              <rdg wit="#R">torner</rdg>
+              <rdg wit="#S">torner</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="49">
+          <root>
+            <app>
+              <rdg wit="#A">Por</rdg>
+              <rdg wit="#B">Par</rdg>
+              <rdg wit="#C">Par</rdg>
+              <rdg wit="#P">Par</rdg>
+              <rdg wit="#R">Par</rdg>
+              <rdg wit="#S">Por</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">prometre</rdg>
+              <rdg wit="#B">prometre</rdg>
+              <rdg wit="#C">prometre</rdg>
+              <rdg wit="#P">prometre</rdg>
+              <rdg wit="#R">prometre</rdg>
+              <rdg wit="#S">prometre</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">ne</rdg>
+              <rdg wit="#B">ne</rdg>
+              <rdg wit="#C">ne</rdg>
+              <rdg wit="#P">ne</rdg>
+              <rdg wit="#R">ne</rdg>
+              <rdg wit="#S">ne</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">por</rdg>
+              <rdg wit="#B">par</rdg>
+              <rdg wit="#C">par</rdg>
+              <rdg wit="#P">par</rdg>
+              <rdg wit="#R">par</rdg>
+              <rdg wit="#S">por</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">doner</rdg>
+              <rdg wit="#B">doner</rdg>
+              <rdg wit="#C">doner</rdg>
+              <rdg wit="#P">doner</rdg>
+              <rdg wit="#R">doner</rdg>
+              <rdg wit="#S">doner</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="50">
+          <root>
+            <app>
+              <rdg wit="#A">Quant</rdg>
+              <rdg wit="#B">Quant</rdg>
+              <rdg wit="#C">Quant</rdg>
+              <rdg wit="#P">Quant</rdg>
+              <rdg wit="#R">Quant</rdg>
+              <rdg wit="#S">Quant</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">il</rdg>
+              <rdg wit="#B">il</rdg>
+              <rdg wit="#C">il</rdg>
+              <rdg wit="#P">il</rdg>
+              <rdg wit="#R">il</rdg>
+              <rdg wit="#S">il</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">ot</rdg>
+              <rdg wit="#B">ot</rdg>
+              <rdg wit="#C">ot</rdg>
+              <rdg wit="#P">ot</rdg>
+              <rdg wit="#R">ot</rdg>
+              <rdg wit="#S">ot</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">sa</rdg>
+              <rdg wit="#B">sa</rdg>
+              <rdg wit="#C">sa</rdg>
+              <rdg wit="#P">sa</rdg>
+              <rdg wit="#R">sa</rdg>
+              <rdg wit="#S">sa</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">gent</rdg>
+              <rdg wit="#B">gent</rdg>
+              <rdg wit="#C">gent</rdg>
+              <rdg wit="#P">gent</rdg>
+              <rdg wit="#R">gent</rdg>
+              <rdg wit="#S">jant</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">asanblee</rdg>
+              <rdg wit="#B">amasse</rdg>
+              <rdg wit="#C">assemblee</rdg>
+              <rdg wit="#P">assamblee</rdg>
+              <rdg wit="#R">assemblee</rdg>
+              <rdg wit="#S">asanble</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="51">
+          <root>
+            <app>
+              <rdg wit="#A">Par</rdg>
+              <rdg wit="#B">Per</rdg>
+              <rdg wit="#C">Par</rdg>
+              <rdg wit="#P">Par</rdg>
+              <rdg wit="#R">Par</rdg>
+              <rdg wit="#S">Par</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">nuit</rdg>
+              <rdg wit="#B">nuit</rdg>
+              <rdg wit="#C">nuit</rdg>
+              <rdg wit="#P">nuit</rdg>
+              <rdg wit="#R">nuit</rdg>
+              <rdg wit="#S">nuit</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">s'an</rdg>
+              <rdg wit="#B">s'en</rdg>
+              <rdg wit="#C">s'en</rdg>
+              <rdg wit="#P">s'en</rdg>
+              <rdg wit="#R">s'en</rdg>
+              <rdg wit="#S">s'an</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">foi</rdg>
+              <rdg wit="#B">furent</rdg>
+              <rdg wit="#C">foi</rdg>
+              <rdg wit="#P">fui</rdg>
+              <rdg wit="#R">fuient</rdg>
+              <rdg wit="#S">foi</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">an</rdg>
+              <rdg wit="#B">en</rdg>
+              <rdg wit="#C">en</rdg>
+              <rdg wit="#P">a</rdg>
+              <rdg wit="#R">en</rdg>
+              <rdg wit="#S">par</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">enblee</rdg>
+              <rdg wit="#B">emblee</rdg>
+              <rdg wit="#C">enblee</rdg>
+              <rdg wit="#P">emblee</rdg>
+              <rdg wit="#R">emblee</rdg>
+              <rdg wit="#S">enblee</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="52">
+          <root>
+            <app>
+              <rdg wit="#A">Car</rdg>
+              <rdg wit="#B">Car</rdg>
+              <rdg wit="#C">Car</rdg>
+              <rdg wit="#P">Car</rdg>
+              <rdg wit="#R">Quar</rdg>
+              <rdg wit="#S">Que</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">de</rdg>
+              <rdg wit="#B">de</rdg>
+              <rdg wit="#C">de</rdg>
+              <rdg wit="#P">des</rdg>
+              <rdg wit="#R">de</rdg>
+              <rdg wit="#S">de</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">plusors</rdg>
+              <rdg wit="#B">pluisors</rdg>
+              <rdg wit="#C">plusors</rdg>
+              <rdg wit="#P">pluisors</rdg>
+              <rdg wit="#R">plusors</rdg>
+              <rdg wit="#S">plusors</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">estoit</rdg>
+              <rdg wit="#B">estoit</rdg>
+              <rdg wit="#C">estoit</rdg>
+              <rdg wit="#P">estoit</rdg>
+              <rdg wit="#R">genz</rdg>
+              <rdg wit="#S">l'estoit</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">hais</rdg>
+              <rdg wit="#P">hais</rdg>
+              <rdg wit="#R">ert</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">haiz</rdg>
+              <rdg wit="#C">haiz</rdg>
+              <rdg wit="#R">haiz</rdg>
+              <rdg wit="#S">haiz</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="53">
+          <root>
+            <app>
+              <rdg wit="#A">Si</rdg>
+              <rdg wit="#B">Si</rdg>
+              <rdg wit="#C">Si</rdg>
+              <rdg wit="#P">Si</rdg>
+              <rdg wit="#R">Si</rdg>
+              <rdg wit="#S">Si</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">redotoit</rdg>
+              <rdg wit="#B">cremoit</rdg>
+              <rdg wit="#C">recuidoit</rdg>
+              <rdg wit="#P">redoutois</rdg>
+              <rdg wit="#R">redotoit</rdg>
+              <rdg wit="#S">redotoit</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">estre</rdg>
+              <rdg wit="#B">estre</rdg>
+              <rdg wit="#C">estre</rdg>
+              <rdg wit="#P">estre</rdg>
+              <rdg wit="#R">estre</rdg>
+              <rdg wit="#S">estre</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">traiz</rdg>
+              <rdg wit="#B">trais</rdg>
+              <rdg wit="#C">traiz</rdg>
+              <rdg wit="#P">trais</rdg>
+              <rdg wit="#R">trahiz</rdg>
+              <rdg wit="#S">traiz</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="54">
+          <root>
+            <app>
+              <rdg wit="#A">Mes</rdg>
+              <rdg wit="#B">Mais</rdg>
+              <rdg wit="#C">Mes</rdg>
+              <rdg wit="#P">Mais</rdg>
+              <rdg wit="#R">Mais</rdg>
+              <rdg wit="#S">Mais</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">aincois</rdg>
+              <rdg wit="#B">ancois</rdg>
+              <rdg wit="#C">eincois</rdg>
+              <rdg wit="#P">ancois</rdg>
+              <rdg wit="#R">aincois</rdg>
+              <rdg wit="#S">ancois</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">que</rdg>
+              <rdg wit="#B">que</rdg>
+              <rdg wit="#C">que</rdg>
+              <rdg wit="#P">que</rdg>
+              <rdg wit="#R">qu'il</rdg>
+              <rdg wit="#S">qu'il</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">il</rdg>
+              <rdg wit="#B">il</rdg>
+              <rdg wit="#C">il</rdg>
+              <rdg wit="#P">il</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">s'an</rdg>
+              <rdg wit="#B">s'en</rdg>
+              <rdg wit="#C">s'en</rdg>
+              <rdg wit="#P">s'en</rdg>
+              <rdg wit="#R">s'en</rdg>
+              <rdg wit="#S">s'en</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">foist</rdg>
+              <rdg wit="#B">fuist</rdg>
+              <rdg wit="#C">foist</rdg>
+              <rdg wit="#P">fuist</rdg>
+              <rdg wit="#R">foist</rdg>
+              <rdg wit="#S">foist</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="55">
+          <root>
+            <app>
+              <rdg wit="#A">Quan</rdg>
+              <rdg wit="#B">Qanque</rdg>
+              <rdg wit="#C">Quanque</rdg>
+              <rdg wit="#P">Quanques</rdg>
+              <rdg wit="#R">Quanqu'il</rdg>
+              <rdg wit="#S">Quant</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">que</rdg>
+              <rdg wit="#S">que</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">il</rdg>
+              <rdg wit="#B">il</rdg>
+              <rdg wit="#C">il</rdg>
+              <rdg wit="#P">il</rdg>
+              <rdg wit="#S">il</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">pot</rdg>
+              <rdg wit="#B">pot</rdg>
+              <rdg wit="#C">pot</rdg>
+              <rdg wit="#P">pot</rdg>
+              <rdg wit="#R">pot</rdg>
+              <rdg wit="#S">por</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">a</rdg>
+              <rdg wit="#B">a</rdg>
+              <rdg wit="#C">a</rdg>
+              <rdg wit="#P">a</rdg>
+              <rdg wit="#R">a</rdg>
+              <rdg wit="#S">a</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">Londres</rdg>
+              <rdg wit="#B">londres</rdg>
+              <rdg wit="#C">Londres</rdg>
+              <rdg wit="#P">Londres</rdg>
+              <rdg wit="#R">londres</rdg>
+              <rdg wit="#S">Londres</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">prist</rdg>
+              <rdg wit="#B">prist</rdg>
+              <rdg wit="#C">prist</rdg>
+              <rdg wit="#P">prist</rdg>
+              <rdg wit="#R">prist</rdg>
+              <rdg wit="#S">prist</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="56">
+          <root>
+            <app>
+              <rdg wit="#A">De</rdg>
+              <rdg wit="#B">De</rdg>
+              <rdg wit="#C">De</rdg>
+              <rdg wit="#P">De</rdg>
+              <rdg wit="#R">De</rdg>
+              <rdg wit="#S">De</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">vitaille</rdg>
+              <rdg wit="#B">vitaille</rdg>
+              <rdg wit="#C">vitaille</rdg>
+              <rdg wit="#P">vitaille</rdg>
+              <rdg wit="#R">vitaille</rdg>
+              <rdg wit="#S">ventailles</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">d'or</rdg>
+              <rdg wit="#B">d'or</rdg>
+              <rdg wit="#C">d'or</rdg>
+              <rdg wit="#P">d'or</rdg>
+              <rdg wit="#R">d'or</rdg>
+              <rdg wit="#S">d'or</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">et</rdg>
+              <rdg wit="#B">et</rdg>
+              <rdg wit="#C">et</rdg>
+              <rdg wit="#P">et</rdg>
+              <rdg wit="#R">et</rdg>
+              <rdg wit="#S">et</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">d'argent</rdg>
+              <rdg wit="#B">d'argent</rdg>
+              <rdg wit="#C">d'argent</rdg>
+              <rdg wit="#P">d'argent</rdg>
+              <rdg wit="#R">d'argent</rdg>
+              <rdg wit="#S">d'argent</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="57">
+          <root>
+            <app>
+              <rdg wit="#A">Si</rdg>
+              <rdg wit="#B">Si</rdg>
+              <rdg wit="#C">Si</rdg>
+              <rdg wit="#P">Si</rdg>
+              <rdg wit="#R">Si</rdg>
+              <rdg wit="#S">Si</rdg>
+            </app>
+            <app>
+              <rdg wit="#C">le</rdg>
+              <rdg wit="#R">le</rdg>
+              <rdg wit="#S">desparti</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">departi</rdg>
+              <rdg wit="#B">departi</rdg>
+              <rdg wit="#C">departi</rdg>
+              <rdg wit="#P">departi</rdg>
+              <rdg wit="#R">departi</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">tot</rdg>
+              <rdg wit="#B">tot</rdg>
+              <rdg wit="#P">tot</rdg>
+              <rdg wit="#S">tot</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">a</rdg>
+              <rdg wit="#B">a</rdg>
+              <rdg wit="#C">a</rdg>
+              <rdg wit="#P">a</rdg>
+              <rdg wit="#R">a</rdg>
+              <rdg wit="#S">a</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">sa</rdg>
+              <rdg wit="#B">sa</rdg>
+              <rdg wit="#C">sa</rdg>
+              <rdg wit="#P">sa</rdg>
+              <rdg wit="#R">sa</rdg>
+              <rdg wit="#S">sa</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">gent</rdg>
+              <rdg wit="#B">gent</rdg>
+              <rdg wit="#C">gent</rdg>
+              <rdg wit="#P">gent</rdg>
+              <rdg wit="#R">gent</rdg>
+              <rdg wit="#S">jant</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="58">
+          <root>
+            <app>
+              <rdg wit="#A">Au</rdg>
+              <rdg wit="#B">Al</rdg>
+              <rdg wit="#C">Au</rdg>
+              <rdg wit="#P">Au</rdg>
+              <rdg wit="#R">Al</rdg>
+              <rdg wit="#S">Au</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">roi</rdg>
+              <rdg wit="#B">roi</rdg>
+              <rdg wit="#C">roi</rdg>
+              <rdg wit="#P">roi</rdg>
+              <rdg wit="#R">roi</rdg>
+              <rdg wit="#S">roi</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">sont</rdg>
+              <rdg wit="#B">sont</rdg>
+              <rdg wit="#C">sont</rdg>
+              <rdg wit="#P">sont</rdg>
+              <rdg wit="#R">sont</rdg>
+              <rdg wit="#S">sont</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">les</rdg>
+              <rdg wit="#B">les</rdg>
+              <rdg wit="#C">les</rdg>
+              <rdg wit="#P">les</rdg>
+              <rdg wit="#R">les</rdg>
+              <rdg wit="#S">les</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">noveles</rdg>
+              <rdg wit="#B">noveles</rdg>
+              <rdg wit="#C">noveles</rdg>
+              <rdg wit="#P">noveles</rdg>
+              <rdg wit="#R">noveles</rdg>
+              <rdg wit="#S">novelles</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">dites</rdg>
+              <rdg wit="#B">dites</rdg>
+              <rdg wit="#C">dites</rdg>
+              <rdg wit="#P">dites</rdg>
+              <rdg wit="#R">dites</rdg>
+              <rdg wit="#S">dites</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="59">
+          <root>
+            <app>
+              <rdg wit="#A">Que</rdg>
+              <rdg wit="#B">Que</rdg>
+              <rdg wit="#C">Que</rdg>
+              <rdg wit="#P">Que</rdg>
+              <rdg wit="#R">Que</rdg>
+              <rdg wit="#S">Que</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">foiz</rdg>
+              <rdg wit="#B">fuis</rdg>
+              <rdg wit="#C">foiz</rdg>
+              <rdg wit="#P">fuis</rdg>
+              <rdg wit="#R">foiz</rdg>
+              <rdg wit="#S">foys</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">s'an</rdg>
+              <rdg wit="#B">s'en</rdg>
+              <rdg wit="#C">s'en</rdg>
+              <rdg wit="#P">s'en</rdg>
+              <rdg wit="#R">s'en</rdg>
+              <rdg wit="#S">s'en</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">est</rdg>
+              <rdg wit="#B">est</rdg>
+              <rdg wit="#C">est</rdg>
+              <rdg wit="#P">est</rdg>
+              <rdg wit="#R">est</rdg>
+              <rdg wit="#S">est</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">li</rdg>
+              <rdg wit="#B">li</rdg>
+              <rdg wit="#C">li</rdg>
+              <rdg wit="#P">li</rdg>
+              <rdg wit="#R">li</rdg>
+              <rdg wit="#S">li</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">traites</rdg>
+              <rdg wit="#B">traites</rdg>
+              <rdg wit="#C">traitres</rdg>
+              <rdg wit="#P">traites</rdg>
+              <rdg wit="#R">traitres</rdg>
+              <rdg wit="#S">traitres</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="60">
+          <root>
+            <app>
+              <rdg wit="#A">Avoec</rdg>
+              <rdg wit="#B">Avolc</rdg>
+              <rdg wit="#C">Avec</rdg>
+              <rdg wit="#P">Avoec</rdg>
+              <rdg wit="#R">Avec</rdg>
+              <rdg wit="#S">Avec</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">lui</rdg>
+              <rdg wit="#B">lui</rdg>
+              <rdg wit="#C">lui</rdg>
+              <rdg wit="#P">lui</rdg>
+              <rdg wit="#R">lui</rdg>
+              <rdg wit="#S">lui</rdg>
+            </app>
+            <app>
+              <rdg wit="#C">toute</rdg>
+              <rdg wit="#P">toute</rdg>
+              <rdg wit="#R">sa</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">tote</rdg>
+              <rdg wit="#B">tote</rdg>
+              <rdg wit="#R">tote</rdg>
+              <rdg wit="#S">tote</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">sa</rdg>
+              <rdg wit="#B">sa</rdg>
+              <rdg wit="#C">sa</rdg>
+              <rdg wit="#P">sa</rdg>
+              <rdg wit="#R">sa</rdg>
+              <rdg wit="#S">sa</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">bataille</rdg>
+              <rdg wit="#B">bataille</rdg>
+              <rdg wit="#C">bataille</rdg>
+              <rdg wit="#P">bataille</rdg>
+              <rdg wit="#R">bataille</rdg>
+              <rdg wit="#S">bataille</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="61">
+          <root>
+            <app>
+              <rdg wit="#A">Et</rdg>
+              <rdg wit="#B">Et</rdg>
+              <rdg wit="#C">Et</rdg>
+              <rdg wit="#P">Et</rdg>
+              <rdg wit="#R">Et</rdg>
+              <rdg wit="#S">Et</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">que</rdg>
+              <rdg wit="#B">que</rdg>
+              <rdg wit="#C">que</rdg>
+              <rdg wit="#P">que</rdg>
+              <rdg wit="#R">que</rdg>
+              <rdg wit="#S">quant</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">tant</rdg>
+              <rdg wit="#B">tant</rdg>
+              <rdg wit="#C">tant</rdg>
+              <rdg wit="#P">tant</rdg>
+              <rdg wit="#R">tant</rdg>
+              <rdg wit="#S">qu'il</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">avoit</rdg>
+              <rdg wit="#B">avoit</rdg>
+              <rdg wit="#C">avoit</rdg>
+              <rdg wit="#P">avoit</rdg>
+              <rdg wit="#R">avoit</rdg>
+              <rdg wit="#S">avoit</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">de</rdg>
+              <rdg wit="#B">de</rdg>
+              <rdg wit="#C">de</rdg>
+              <rdg wit="#P">de</rdg>
+              <rdg wit="#R">de</rdg>
+              <rdg wit="#S">de</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">vitaille</rdg>
+              <rdg wit="#B">vitaille</rdg>
+              <rdg wit="#C">vitaille</rdg>
+              <rdg wit="#P">vitaille</rdg>
+              <rdg wit="#R">vitaille</rdg>
+              <rdg wit="#S">vitalle</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="62">
+          <root>
+            <app>
+              <rdg wit="#A">Et</rdg>
+              <rdg wit="#B">Et</rdg>
+              <rdg wit="#C">Et</rdg>
+              <rdg wit="#P">Et</rdg>
+              <rdg wit="#R">Et</rdg>
+              <rdg wit="#S">Et</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">d'avoir</rdg>
+              <rdg wit="#B">d'avoir</rdg>
+              <rdg wit="#C">d'avoir</rdg>
+              <rdg wit="#P">d'avoir</rdg>
+              <rdg wit="#R">d'avoir</rdg>
+              <rdg wit="#S">d'avoir</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">pris</rdg>
+              <rdg wit="#B">pris</rdg>
+              <rdg wit="#C">pris</rdg>
+              <rdg wit="#P">pris</rdg>
+              <rdg wit="#R">pris</rdg>
+              <rdg wit="#S">prisent</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">an</rdg>
+              <rdg wit="#B">en</rdg>
+              <rdg wit="#C">en</rdg>
+              <rdg wit="#P">en</rdg>
+              <rdg wit="#R">en</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">la</rdg>
+              <rdg wit="#B">la</rdg>
+              <rdg wit="#C">la</rdg>
+              <rdg wit="#P">la</rdg>
+              <rdg wit="#R">la</rdg>
+              <rdg wit="#S">la</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">cite</rdg>
+              <rdg wit="#B">cite</rdg>
+              <rdg wit="#C">cite</rdg>
+              <rdg wit="#P">cite</rdg>
+              <rdg wit="#R">cite</rdg>
+              <rdg wit="#S">cite</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="63">
+          <root>
+            <app>
+              <rdg wit="#A">Qu'apovri</rdg>
+              <rdg wit="#B">Qu'apovri</rdg>
+              <rdg wit="#C">Que</rdg>
+              <rdg wit="#P">K'apovri</rdg>
+              <rdg wit="#R">Qu'apoveri</rdg>
+              <rdg wit="#S">Que</rdg>
+            </app>
+            <app>
+              <rdg wit="#C">tuit</rdg>
+              <rdg wit="#S">povro</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">et</rdg>
+              <rdg wit="#B">et</rdg>
+              <rdg wit="#C">erent</rdg>
+              <rdg wit="#P">et</rdg>
+              <rdg wit="#R">et</rdg>
+              <rdg wit="#S">et</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">deserite</rdg>
+              <rdg wit="#B">desirite</rdg>
+              <rdg wit="#C">deserite</rdg>
+              <rdg wit="#P">desirete</rdg>
+              <rdg wit="#R">deserite</rdg>
+              <rdg wit="#S">deserite</rdg>
+            </app>
+            <app>
+              <rdg wit="#S">sont</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="64">
+          <root>
+            <app>
+              <rdg wit="#B">[192b]</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">Sont</rdg>
+              <rdg wit="#B">sont</rdg>
+              <rdg wit="#P">Sont</rdg>
+              <rdg wit="#R">Sont</rdg>
+              <rdg wit="#S">Sont</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">li</rdg>
+              <rdg wit="#B">li</rdg>
+              <rdg wit="#C">Li</rdg>
+              <rdg wit="#P">li</rdg>
+              <rdg wit="#R">li</rdg>
+              <rdg wit="#S">li</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">borjois</rdg>
+              <rdg wit="#B">borjois</rdg>
+              <rdg wit="#C">borjois</rdg>
+              <rdg wit="#P">borgois</rdg>
+              <rdg wit="#R">borgois</rdg>
+              <rdg wit="#S">borjois</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">et</rdg>
+              <rdg wit="#B">et</rdg>
+              <rdg wit="#C">et</rdg>
+              <rdg wit="#P">et</rdg>
+              <rdg wit="#R">et</rdg>
+              <rdg wit="#S">et</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">confondu</rdg>
+              <rdg wit="#B">confondu</rdg>
+              <rdg wit="#C">tuit</rdg>
+              <rdg wit="#P">confondu</rdg>
+              <rdg wit="#R">confondu</rdg>
+              <rdg wit="#S">confondu</rdg>
+            </app>
+            <app>
+              <rdg wit="#C">confundu</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="65">
+          <root>
+            <app>
+              <rdg wit="#S">[29c]</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">Et</rdg>
+              <rdg wit="#B">Et</rdg>
+              <rdg wit="#C">Et</rdg>
+              <rdg wit="#P">Et</rdg>
+              <rdg wit="#R">Et</rdg>
+              <rdg wit="#S">Et</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">li</rdg>
+              <rdg wit="#B">li</rdg>
+              <rdg wit="#C">li</rdg>
+              <rdg wit="#P">li</rdg>
+              <rdg wit="#R">li</rdg>
+              <rdg wit="#S">li</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">rois</rdg>
+              <rdg wit="#B">rois</rdg>
+              <rdg wit="#C">rois</rdg>
+              <rdg wit="#P">rois</rdg>
+              <rdg wit="#R">rois</rdg>
+              <rdg wit="#S">rois</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">a</rdg>
+              <rdg wit="#B">a</rdg>
+              <rdg wit="#C">a</rdg>
+              <rdg wit="#P">a</rdg>
+              <rdg wit="#R">a</rdg>
+              <rdg wit="#S">a</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">tant</rdg>
+              <rdg wit="#B">tant</rdg>
+              <rdg wit="#C">tant</rdg>
+              <rdg wit="#P">tant</rdg>
+              <rdg wit="#R">tant</rdg>
+              <rdg wit="#S">tant</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">respondu</rdg>
+              <rdg wit="#B">respondu</rdg>
+              <rdg wit="#C">respondu</rdg>
+              <rdg wit="#P">respondu</rdg>
+              <rdg wit="#R">respondu</rdg>
+              <rdg wit="#S">respondu</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="66">
+          <root>
+            <app>
+              <rdg wit="#A">Que</rdg>
+              <rdg wit="#B">Que</rdg>
+              <rdg wit="#C">Que</rdg>
+              <rdg wit="#P">Que</rdg>
+              <rdg wit="#R">Que</rdg>
+              <rdg wit="#S">Que</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">ja</rdg>
+              <rdg wit="#B">ja</rdg>
+              <rdg wit="#C">ja</rdg>
+              <rdg wit="#P">ja</rdg>
+              <rdg wit="#R">ja</rdg>
+              <rdg wit="#S">ja</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">reancon</rdg>
+              <rdg wit="#B">raancon</rdg>
+              <rdg wit="#C">reencon</rdg>
+              <rdg wit="#P">raencon</rdg>
+              <rdg wit="#R">raencon</rdg>
+              <rdg wit="#S">reencon</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">n'an</rdg>
+              <rdg wit="#B">ne</rdg>
+              <rdg wit="#C">n'en</rdg>
+              <rdg wit="#P">n'en</rdg>
+              <rdg wit="#R">ne</rdg>
+              <rdg wit="#S">n'i</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">prendra</rdg>
+              <rdg wit="#B">prandra</rdg>
+              <rdg wit="#C">prendra</rdg>
+              <rdg wit="#P">prendra</rdg>
+              <rdg wit="#R">prendra</rdg>
+              <rdg wit="#S">avra</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="67">
+          <root>
+            <app>
+              <rdg wit="#A">Del</rdg>
+              <rdg wit="#B">Del</rdg>
+              <rdg wit="#C">Dou</rdg>
+              <rdg wit="#P">Del</rdg>
+              <rdg wit="#R">Del</rdg>
+              <rdg wit="#S">Del</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">traitor</rdg>
+              <rdg wit="#B">traitor</rdg>
+              <rdg wit="#C">traitor</rdg>
+              <rdg wit="#P">traitor</rdg>
+              <rdg wit="#R">traitor</rdg>
+              <rdg wit="#S">traytor</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">einz</rdg>
+              <rdg wit="#B">ains</rdg>
+              <rdg wit="#C">einz</rdg>
+              <rdg wit="#P">ains</rdg>
+              <rdg wit="#R">qinz</rdg>
+              <rdg wit="#S">ainz</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">le</rdg>
+              <rdg wit="#B">le</rdg>
+              <rdg wit="#C">le</rdg>
+              <rdg wit="#P">le</rdg>
+              <rdg wit="#R">le</rdg>
+              <rdg wit="#S">lo</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">pandra</rdg>
+              <rdg wit="#B">pendra</rdg>
+              <rdg wit="#C">pendra</rdg>
+              <rdg wit="#P">pendra</rdg>
+              <rdg wit="#R">pendra</rdg>
+              <rdg wit="#S">pendra</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="68">
+          <root>
+            <app>
+              <rdg wit="#A">Se</rdg>
+              <rdg wit="#B">Se</rdg>
+              <rdg wit="#C">Se</rdg>
+              <rdg wit="#P">Se</rdg>
+              <rdg wit="#R">Si</rdg>
+              <rdg wit="#S">Se</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">prendre</rdg>
+              <rdg wit="#B">prendre</rdg>
+              <rdg wit="#C">prendre</rdg>
+              <rdg wit="#P">baillier</rdg>
+              <rdg wit="#R">prendre</rdg>
+              <rdg wit="#S">pandre</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">ne</rdg>
+              <rdg wit="#B">ne</rdg>
+              <rdg wit="#C">ne</rdg>
+              <rdg wit="#P">et</rdg>
+              <rdg wit="#R">ne</rdg>
+              <rdg wit="#S">ne</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">tenir</rdg>
+              <rdg wit="#B">bailler</rdg>
+              <rdg wit="#C">baillier</rdg>
+              <rdg wit="#P">prendre</rdg>
+              <rdg wit="#R">baillier</rdg>
+              <rdg wit="#S">baillier</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">le</rdg>
+              <rdg wit="#B">ne</rdg>
+              <rdg wit="#C">le</rdg>
+              <rdg wit="#P">le</rdg>
+              <rdg wit="#R">le</rdg>
+              <rdg wit="#S">le</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">puet</rdg>
+              <rdg wit="#B">puet</rdg>
+              <rdg wit="#C">puet</rdg>
+              <rdg wit="#P">puet</rdg>
+              <rdg wit="#R">poet</rdg>
+              <rdg wit="#S">puet</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="69">
+          <root>
+            <app>
+              <rdg wit="#A">Maintenant</rdg>
+              <rdg wit="#B">Maintenant</rdg>
+              <rdg wit="#C">Meintenant</rdg>
+              <rdg wit="#P">Maintenant</rdg>
+              <rdg wit="#R">Maintenant</rdg>
+              <rdg wit="#S">Maintenant</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">tote</rdg>
+              <rdg wit="#B">tote</rdg>
+              <rdg wit="#C">tout</rdg>
+              <rdg wit="#P">tote</rdg>
+              <rdg wit="#R">tote</rdg>
+              <rdg wit="#S">tote</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">l'oz</rdg>
+              <rdg wit="#B">l'os</rdg>
+              <rdg wit="#C">l'ost</rdg>
+              <rdg wit="#P">l'os</rdg>
+              <rdg wit="#R">l'ost</rdg>
+              <rdg wit="#S">l'ot</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">s'esmuet</rdg>
+              <rdg wit="#B">s'esmoet</rdg>
+              <rdg wit="#C">s'esmuet</rdg>
+              <rdg wit="#P">s'esmuet</rdg>
+              <rdg wit="#R">se</rdg>
+              <rdg wit="#S">se</rdg>
+            </app>
+            <app>
+              <rdg wit="#R">moet</rdg>
+              <rdg wit="#S">muet</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="70">
+          <root>
+            <app>
+              <rdg wit="#A">Tant</rdg>
+              <rdg wit="#B">Tant</rdg>
+              <rdg wit="#C">Tant</rdg>
+              <rdg wit="#P">Tant</rdg>
+              <rdg wit="#R">Tant</rdg>
+              <rdg wit="#S">Tant</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">qu'il</rdg>
+              <rdg wit="#B">qu'il</rdg>
+              <rdg wit="#C">qu'il</rdg>
+              <rdg wit="#P">qu'il</rdg>
+              <rdg wit="#R">qu'il</rdg>
+              <rdg wit="#S">qu'il</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">vindrent</rdg>
+              <rdg wit="#B">vinrent</rdg>
+              <rdg wit="#C">vindrent</rdg>
+              <rdg wit="#P">vinrent</rdg>
+              <rdg wit="#R">vindrent</rdg>
+              <rdg wit="#S">vindrent</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">a</rdg>
+              <rdg wit="#B">a</rdg>
+              <rdg wit="#C">a</rdg>
+              <rdg wit="#P">a</rdg>
+              <rdg wit="#R">a</rdg>
+              <rdg wit="#S">a</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">Guinesores</rdg>
+              <rdg wit="#B">windesores</rdg>
+              <rdg wit="#C">Guinesores</rdg>
+              <rdg wit="#P">Ginessore</rdg>
+              <rdg wit="#R">guinesores</rdg>
+              <rdg wit="#S">Guinesores</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="71">
+          <root>
+            <app>
+              <rdg wit="#A">A</rdg>
+              <rdg wit="#B">A</rdg>
+              <rdg wit="#C">A</rdg>
+              <rdg wit="#P">A</rdg>
+              <rdg wit="#R">A</rdg>
+              <rdg wit="#S">A</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">ce</rdg>
+              <rdg wit="#B">cel</rdg>
+              <rdg wit="#C">cel</rdg>
+              <rdg wit="#P">cel</rdg>
+              <rdg wit="#R">cel</rdg>
+              <rdg wit="#S">cel</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">jor</rdg>
+              <rdg wit="#B">jor</rdg>
+              <rdg wit="#C">jor</rdg>
+              <rdg wit="#P">jor</rdg>
+              <rdg wit="#R">jor</rdg>
+              <rdg wit="#S">jor</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">comant</rdg>
+              <rdg wit="#B">comment</rdg>
+              <rdg wit="#C">comment</rdg>
+              <rdg wit="#P">comment</rdg>
+              <rdg wit="#R">coment</rdg>
+              <rdg wit="#S">comant</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">qu'il</rdg>
+              <rdg wit="#B">que</rdg>
+              <rdg wit="#C">qu'il</rdg>
+              <rdg wit="#P">qu'il</rdg>
+              <rdg wit="#R">qu'il</rdg>
+              <rdg wit="#S">qu'il</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">soit</rdg>
+              <rdg wit="#B">sot</rdg>
+              <rdg wit="#C">soit</rdg>
+              <rdg wit="#P">soit</rdg>
+              <rdg wit="#R">soit</rdg>
+              <rdg wit="#S">soit</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">ores</rdg>
+              <rdg wit="#B">ores</rdg>
+              <rdg wit="#C">hores</rdg>
+              <rdg wit="#P">ore</rdg>
+              <rdg wit="#R">ores</rdg>
+              <rdg wit="#S">ores</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="72">
+          <root>
+            <app>
+              <rdg wit="#A">[58f]</rdg>
+              <rdg wit="#S">Que</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">Qui</rdg>
+              <rdg wit="#B">Qui</rdg>
+              <rdg wit="#C">Qui</rdg>
+              <rdg wit="#P">Qui</rdg>
+              <rdg wit="#R">Qui</rdg>
+              <rdg wit="#S">lo</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">le</rdg>
+              <rdg wit="#B">le</rdg>
+              <rdg wit="#C">le</rdg>
+              <rdg wit="#P">le</rdg>
+              <rdg wit="#R">le</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">chastel</rdg>
+              <rdg wit="#B">castel</rdg>
+              <rdg wit="#C">chastel</rdg>
+              <rdg wit="#P">castel</rdg>
+              <rdg wit="#R">chastel</rdg>
+              <rdg wit="#S">chastel</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">volsist</rdg>
+              <rdg wit="#B">vausist</rdg>
+              <rdg wit="#C">volsist</rdg>
+              <rdg wit="#P">vausist</rdg>
+              <rdg wit="#R">volsist</rdg>
+              <rdg wit="#S">volsist</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">desfandre</rdg>
+              <rdg wit="#B">desfendre</rdg>
+              <rdg wit="#C">deffendre</rdg>
+              <rdg wit="#P">deffendre</rdg>
+              <rdg wit="#R">defendre</rdg>
+              <rdg wit="#S">defende</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="73">
+          <root>
+            <app>
+              <rdg wit="#A">Ne</rdg>
+              <rdg wit="#B">Ne</rdg>
+              <rdg wit="#C">Ne</rdg>
+              <rdg wit="#P">Ne</rdg>
+              <rdg wit="#R">Ne</rdg>
+              <rdg wit="#S">Ne</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">fust</rdg>
+              <rdg wit="#B">fust</rdg>
+              <rdg wit="#C">fust</rdg>
+              <rdg wit="#P">fust</rdg>
+              <rdg wit="#R">fust</rdg>
+              <rdg wit="#S">fust</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">mie</rdg>
+              <rdg wit="#B">mie</rdg>
+              <rdg wit="#C">mie</rdg>
+              <rdg wit="#P">mie</rdg>
+              <rdg wit="#R">il</rdg>
+              <rdg wit="#S">mie</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">legier</rdg>
+              <rdg wit="#B">legiers</rdg>
+              <rdg wit="#C">legiers</rdg>
+              <rdg wit="#P">legiers</rdg>
+              <rdg wit="#R">pas</rdg>
+              <rdg wit="#S">legiers</rdg>
+            </app>
+            <app>
+              <rdg wit="#R">leger</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">a</rdg>
+              <rdg wit="#B">a</rdg>
+              <rdg wit="#C">a</rdg>
+              <rdg wit="#P">a</rdg>
+              <rdg wit="#R">a</rdg>
+              <rdg wit="#S">a</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">prendre</rdg>
+              <rdg wit="#B">prendre</rdg>
+              <rdg wit="#C">prendre</rdg>
+              <rdg wit="#P">prendre</rdg>
+              <rdg wit="#R">prendre</rdg>
+              <rdg wit="#S">pendre</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="74">
+          <root>
+            <app>
+              <rdg wit="#A">Car</rdg>
+              <rdg wit="#B">Que</rdg>
+              <rdg wit="#C">Car</rdg>
+              <rdg wit="#P">Car</rdg>
+              <rdg wit="#R">Quar</rdg>
+              <rdg wit="#S">Que</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">li</rdg>
+              <rdg wit="#B">li</rdg>
+              <rdg wit="#C">li</rdg>
+              <rdg wit="#P">li</rdg>
+              <rdg wit="#R">li</rdg>
+              <rdg wit="#S">li</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">traitres</rdg>
+              <rdg wit="#B">traitre</rdg>
+              <rdg wit="#C">traitres</rdg>
+              <rdg wit="#P">traitor</rdg>
+              <rdg wit="#R">traitres</rdg>
+              <rdg wit="#S">traitres</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">le</rdg>
+              <rdg wit="#B">le</rdg>
+              <rdg wit="#C">le</rdg>
+              <rdg wit="#P">le</rdg>
+              <rdg wit="#R">le</rdg>
+              <rdg wit="#S">lo</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">ferma</rdg>
+              <rdg wit="#B">ferma</rdg>
+              <rdg wit="#C">ferma</rdg>
+              <rdg wit="#P">fermerent</rdg>
+              <rdg wit="#R">ferma</rdg>
+              <rdg wit="#S">ferma</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="75">
+          <root>
+            <app>
+              <rdg wit="#A">Des</rdg>
+              <rdg wit="#B">Quant</rdg>
+              <rdg wit="#C">Tant</rdg>
+              <rdg wit="#P">Tantost</rdg>
+              <rdg wit="#R">Tant</rdg>
+              <rdg wit="#S">Des</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">que</rdg>
+              <rdg wit="#B">il</rdg>
+              <rdg wit="#C">com</rdg>
+              <rdg wit="#P">que</rdg>
+              <rdg wit="#R">com</rdg>
+              <rdg wit="#S">que</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">la</rdg>
+              <rdg wit="#B">la</rdg>
+              <rdg wit="#C">la</rdg>
+              <rdg wit="#R">la</rdg>
+              <rdg wit="#S">la</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">traison</rdg>
+              <rdg wit="#B">traison</rdg>
+              <rdg wit="#C">traisons</rdg>
+              <rdg wit="#P">traison</rdg>
+              <rdg wit="#R">traisons</rdg>
+              <rdg wit="#S">traison</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">soucha</rdg>
+              <rdg wit="#B">sosca</rdg>
+              <rdg wit="#C">dura</rdg>
+              <rdg wit="#P">penserent</rdg>
+              <rdg wit="#R">dura</rdg>
+              <rdg wit="#S">sot</rdg>
+            </app>
+            <app>
+              <rdg wit="#S">ja</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="76">
+          <root>
+            <app>
+              <rdg wit="#A">De</rdg>
+              <rdg wit="#B">De</rdg>
+              <rdg wit="#C">De</rdg>
+              <rdg wit="#P">De</rdg>
+              <rdg wit="#R">De</rdg>
+              <rdg wit="#S">Deforz</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">dobles</rdg>
+              <rdg wit="#B">trebles</rdg>
+              <rdg wit="#C">treble</rdg>
+              <rdg wit="#P">treble</rdg>
+              <rdg wit="#R">treble</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">murs</rdg>
+              <rdg wit="#B">murs</rdg>
+              <rdg wit="#C">mur</rdg>
+              <rdg wit="#P">mur</rdg>
+              <rdg wit="#R">nuit</rdg>
+              <rdg wit="#S">murs</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">et</rdg>
+              <rdg wit="#B">et</rdg>
+              <rdg wit="#C">et</rdg>
+              <rdg wit="#P">et</rdg>
+              <rdg wit="#R">et</rdg>
+              <rdg wit="#S">et</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">de</rdg>
+              <rdg wit="#B">de</rdg>
+              <rdg wit="#C">de</rdg>
+              <rdg wit="#P">de</rdg>
+              <rdg wit="#R">de</rdg>
+              <rdg wit="#S">de</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">fossez</rdg>
+              <rdg wit="#B">fosses</rdg>
+              <rdg wit="#C">fosses</rdg>
+              <rdg wit="#P">fosse</rdg>
+              <rdg wit="#R">fossez</rdg>
+              <rdg wit="#S">fossez</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="77">
+          <root>
+            <app>
+              <rdg wit="#A">Et</rdg>
+              <rdg wit="#B">Et</rdg>
+              <rdg wit="#C">Et</rdg>
+              <rdg wit="#P">Et</rdg>
+              <rdg wit="#R">Et</rdg>
+              <rdg wit="#S">Et</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">s'avoit</rdg>
+              <rdg wit="#B">s'avoit</rdg>
+              <rdg wit="#C">s'avoit</rdg>
+              <rdg wit="#P">savoit</rdg>
+              <rdg wit="#R">savoit</rdg>
+              <rdg wit="#S">s'avoit</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">les</rdg>
+              <rdg wit="#B">les</rdg>
+              <rdg wit="#C">les</rdg>
+              <rdg wit="#P">le</rdg>
+              <rdg wit="#R">les</rdg>
+              <rdg wit="#S">les</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">murs</rdg>
+              <rdg wit="#B">murs</rdg>
+              <rdg wit="#C">murs</rdg>
+              <rdg wit="#P">mur</rdg>
+              <rdg wit="#R">murs</rdg>
+              <rdg wit="#S">murs</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">adossez</rdg>
+              <rdg wit="#B">adosses</rdg>
+              <rdg wit="#C">adossez</rdg>
+              <rdg wit="#P">adosse</rdg>
+              <rdg wit="#R">adossez</rdg>
+              <rdg wit="#S">adosez</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="78">
+          <root>
+            <app>
+              <rdg wit="#A">De</rdg>
+              <rdg wit="#B">De</rdg>
+              <rdg wit="#C">De</rdg>
+              <rdg wit="#P">De</rdg>
+              <rdg wit="#R">De</rdg>
+              <rdg wit="#S">De</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">pex</rdg>
+              <rdg wit="#C">forz</rdg>
+              <rdg wit="#P">molt</rdg>
+              <rdg wit="#R">forz</rdg>
+              <rdg wit="#S">fort</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">aguz</rdg>
+              <rdg wit="#B">fors</rdg>
+              <rdg wit="#C">engins</rdg>
+              <rdg wit="#P">fors</rdg>
+              <rdg wit="#R">engins</rdg>
+              <rdg wit="#S">cue</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">et</rdg>
+              <rdg wit="#B">aiges</rdg>
+              <rdg wit="#P">peus</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">par</rdg>
+              <rdg wit="#C">par</rdg>
+              <rdg wit="#P">par</rdg>
+              <rdg wit="#R">par</rdg>
+              <rdg wit="#S">par</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">de</rdg>
+              <rdg wit="#B">de</rdg>
+              <rdg wit="#C">de</rdg>
+              <rdg wit="#P">de</rdg>
+              <rdg wit="#S">de</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">darciere</rdg>
+              <rdg wit="#B">deriere</rdg>
+              <rdg wit="#C">desriere</rdg>
+              <rdg wit="#P">desriere</rdg>
+              <rdg wit="#R">deriere</rdg>
+              <rdg wit="#S">dariere</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="79">
+          <root>
+            <app>
+              <rdg wit="#A">Qu'il</rdg>
+              <rdg wit="#B">Qu'il</rdg>
+              <rdg wit="#C">Qu'il</rdg>
+              <rdg wit="#P">Qu'il</rdg>
+              <rdg wit="#R">Qu'il</rdg>
+              <rdg wit="#S">Que</rdg>
+            </app>
+            <app>
+              <rdg wit="#S">il</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">ne</rdg>
+              <rdg wit="#B">ne</rdg>
+              <rdg wit="#C">ne</rdg>
+              <rdg wit="#P">ne</rdg>
+              <rdg wit="#R">ne</rdg>
+              <rdg wit="#S">ne</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">cheissent</rdg>
+              <rdg wit="#B">caissent</rdg>
+              <rdg wit="#C">cheissent</rdg>
+              <rdg wit="#P">caissent</rdg>
+              <rdg wit="#R">chaissent</rdg>
+              <rdg wit="#S">chaiset</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">par</rdg>
+              <rdg wit="#B">par</rdg>
+              <rdg wit="#C">par</rdg>
+              <rdg wit="#P">por</rdg>
+              <rdg wit="#R">par</rdg>
+              <rdg wit="#S">ariers</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">derriere</rdg>
+              <rdg wit="#B">perieres</rdg>
+              <rdg wit="#C">proiere</rdg>
+              <rdg wit="#P">perriere</rdg>
+              <rdg wit="#R">perriere</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="80">
+          <root>
+            <app>
+              <rdg wit="#A">Au</rdg>
+              <rdg wit="#B">Al</rdg>
+              <rdg wit="#C">Au</rdg>
+              <rdg wit="#P">Au</rdg>
+              <rdg wit="#R">Al</rdg>
+              <rdg wit="#S">A</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">fermer</rdg>
+              <rdg wit="#B">fermer</rdg>
+              <rdg wit="#C">fermer</rdg>
+              <rdg wit="#P">fremer</rdg>
+              <rdg wit="#R">fermer</rdg>
+              <rdg wit="#S">fermer</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">avoit</rdg>
+              <rdg wit="#B">avoit</rdg>
+              <rdg wit="#C">avoit</rdg>
+              <rdg wit="#P">avoit</rdg>
+              <rdg wit="#R">avoit</rdg>
+              <rdg wit="#S">avoit</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">mis</rdg>
+              <rdg wit="#B">mis</rdg>
+              <rdg wit="#C">mis</rdg>
+              <rdg wit="#P">mis</rdg>
+              <rdg wit="#R">mis</rdg>
+              <rdg wit="#S">mis</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">grant</rdg>
+              <rdg wit="#B">grant</rdg>
+              <rdg wit="#C">grant</rdg>
+              <rdg wit="#P">gran</rdg>
+              <rdg wit="#R">grant</rdg>
+              <rdg wit="#S">grant</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">coust</rdg>
+              <rdg wit="#B">cost</rdg>
+              <rdg wit="#C">cost</rdg>
+              <rdg wit="#P">coust</rdg>
+              <rdg wit="#R">cost</rdg>
+              <rdg wit="#S">eost</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="81">
+          <root>
+            <app>
+              <rdg wit="#C">[90d]</rdg>
+              <rdg wit="#R">[35b]</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">Tot</rdg>
+              <rdg wit="#B">Tot</rdg>
+              <rdg wit="#C">Tout</rdg>
+              <rdg wit="#P">Tot</rdg>
+              <rdg wit="#R">tot</rdg>
+              <rdg wit="#S">Tot</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">juing</rdg>
+              <rdg wit="#B">juing</rdg>
+              <rdg wit="#C">juing</rdg>
+              <rdg wit="#P">juin</rdg>
+              <rdg wit="#R">joing</rdg>
+              <rdg wit="#S">un</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">et</rdg>
+              <rdg wit="#B">et</rdg>
+              <rdg wit="#C">et</rdg>
+              <rdg wit="#P">et</rdg>
+              <rdg wit="#R">et</rdg>
+              <rdg wit="#S">iver</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">juingnet</rdg>
+              <rdg wit="#B">[j]uignet</rdg>
+              <rdg wit="#C">juignet</rdg>
+              <rdg wit="#P">juignet</rdg>
+              <rdg wit="#R">joignet</rdg>
+              <rdg wit="#S">aun</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">et</rdg>
+              <rdg wit="#B">et</rdg>
+              <rdg wit="#C">et</rdg>
+              <rdg wit="#P">et</rdg>
+              <rdg wit="#R">et</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">aoust</rdg>
+              <rdg wit="#B">aost</rdg>
+              <rdg wit="#C">aost</rdg>
+              <rdg wit="#P">aoust</rdg>
+              <rdg wit="#R">a</rdg>
+              <rdg wit="#S">aost</rdg>
+            </app>
+            <app>
+              <rdg wit="#R">ost</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="82">
+          <root>
+            <app>
+              <rdg wit="#B">A</rdg>
+              <rdg wit="#C">A</rdg>
+              <rdg wit="#P">A</rdg>
+              <rdg wit="#R">A</rdg>
+              <rdg wit="#S">A</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">faire</rdg>
+              <rdg wit="#C">fere</rdg>
+              <rdg wit="#P">faire</rdg>
+              <rdg wit="#R">faire</rdg>
+              <rdg wit="#S">faire</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">murs</rdg>
+              <rdg wit="#C">murs</rdg>
+              <rdg wit="#P">murs</rdg>
+              <rdg wit="#R">murs</rdg>
+              <rdg wit="#S">murs</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">et</rdg>
+              <rdg wit="#C">et</rdg>
+              <rdg wit="#P">et</rdg>
+              <rdg wit="#R">et</rdg>
+              <rdg wit="#S">et</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">roellis</rdg>
+              <rdg wit="#C">roilleiz</rdg>
+              <rdg wit="#P">roilleis</rdg>
+              <rdg wit="#R">roeilliz</rdg>
+              <rdg wit="#S">toolliez</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="83">
+          <root>
+            <app>
+              <rdg wit="#A">Molt</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">au</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">feire</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">le</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">roilleiz</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="84">
+          <root>
+            <app>
+              <rdg wit="#A">Et</rdg>
+              <rdg wit="#B">Et</rdg>
+              <rdg wit="#C">Et</rdg>
+              <rdg wit="#P">Et</rdg>
+              <rdg wit="#R">Et</rdg>
+              <rdg wit="#S">Et</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">fossez</rdg>
+              <rdg wit="#B">fosses</rdg>
+              <rdg wit="#C">fossez</rdg>
+              <rdg wit="#P">fosses</rdg>
+              <rdg wit="#R">fossez</rdg>
+              <rdg wit="#S">fossez</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">et</rdg>
+              <rdg wit="#B">et</rdg>
+              <rdg wit="#C">et</rdg>
+              <rdg wit="#P">et</rdg>
+              <rdg wit="#R">et</rdg>
+              <rdg wit="#S">e</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">pont</rdg>
+              <rdg wit="#B">pons</rdg>
+              <rdg wit="#C">ponz</rdg>
+              <rdg wit="#P">pons</rdg>
+              <rdg wit="#R">pont</rdg>
+              <rdg wit="#S">ponz</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">torneiz</rdg>
+              <rdg wit="#B">toneis</rdg>
+              <rdg wit="#C">torneiz</rdg>
+              <rdg wit="#P">torneis</rdg>
+              <rdg wit="#R">torniz</rdg>
+              <rdg wit="#S">tornoiz</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="85">
+          <root>
+            <app>
+              <rdg wit="#A">Tranchiees</rdg>
+              <rdg wit="#C">Trenchiees</rdg>
+              <rdg wit="#P">Trencies</rdg>
+              <rdg wit="#R">Trenchiees</rdg>
+              <rdg wit="#S">Trancheiz</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">et</rdg>
+              <rdg wit="#B">Et</rdg>
+              <rdg wit="#C">et</rdg>
+              <rdg wit="#P">et</rdg>
+              <rdg wit="#R">et</rdg>
+              <rdg wit="#S">et</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">trancies</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">barres</rdg>
+              <rdg wit="#B">bares</rdg>
+              <rdg wit="#C">barres</rdg>
+              <rdg wit="#P">bares</rdg>
+              <rdg wit="#R">barres</rdg>
+              <rdg wit="#S">barres</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">et</rdg>
+              <rdg wit="#B">et</rdg>
+              <rdg wit="#C">et</rdg>
+              <rdg wit="#P">et</rdg>
+              <rdg wit="#R">et</rdg>
+              <rdg wit="#S">et</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">lices</rdg>
+              <rdg wit="#B">lices</rdg>
+              <rdg wit="#C">lices</rdg>
+              <rdg wit="#P">lices</rdg>
+              <rdg wit="#R">licez</rdg>
+              <rdg wit="#S">lices</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="86">
+          <root>
+            <app>
+              <rdg wit="#A">Et</rdg>
+              <rdg wit="#B">Et</rdg>
+              <rdg wit="#C">Et</rdg>
+              <rdg wit="#P">Et</rdg>
+              <rdg wit="#R">Et</rdg>
+              <rdg wit="#S">Et</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">portes</rdg>
+              <rdg wit="#B">portes</rdg>
+              <rdg wit="#C">portes</rdg>
+              <rdg wit="#P">portes</rdg>
+              <rdg wit="#R">portes</rdg>
+              <rdg wit="#S">portes</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">de</rdg>
+              <rdg wit="#B">de</rdg>
+              <rdg wit="#C">de</rdg>
+              <rdg wit="#P">de</rdg>
+              <rdg wit="#R">de</rdg>
+              <rdg wit="#S">de</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">fer</rdg>
+              <rdg wit="#B">fer</rdg>
+              <rdg wit="#C">fer</rdg>
+              <rdg wit="#P">fer</rdg>
+              <rdg wit="#R">fer</rdg>
+              <rdg wit="#S">fer</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">coleices</rdg>
+              <rdg wit="#B">coleices</rdg>
+              <rdg wit="#C">coleices</rdg>
+              <rdg wit="#P">couleices</rdg>
+              <rdg wit="#R">coleicez</rdg>
+              <rdg wit="#S">coleises</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="87">
+          <root>
+            <app>
+              <rdg wit="#A">Et</rdg>
+              <rdg wit="#C">Et</rdg>
+              <rdg wit="#P">Et</rdg>
+              <rdg wit="#R">Et</rdg>
+              <rdg wit="#S">Et</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">grant</rdg>
+              <rdg wit="#C">fort</rdg>
+              <rdg wit="#P">grant</rdg>
+              <rdg wit="#R">forte</rdg>
+              <rdg wit="#S">granz</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">tor</rdg>
+              <rdg wit="#C">tor</rdg>
+              <rdg wit="#P">tour</rdg>
+              <rdg wit="#R">tor</rdg>
+              <rdg wit="#S">tors</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">de</rdg>
+              <rdg wit="#B">De</rdg>
+              <rdg wit="#C">de</rdg>
+              <rdg wit="#P">de</rdg>
+              <rdg wit="#R">de</rdg>
+              <rdg wit="#S">de</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">pierre</rdg>
+              <rdg wit="#B">piere</rdg>
+              <rdg wit="#C">pierre</rdg>
+              <rdg wit="#P">piere</rdg>
+              <rdg wit="#R">pierre</rdg>
+              <rdg wit="#S">pierres</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">quarree</rdg>
+              <rdg wit="#B">forte</rdg>
+              <rdg wit="#C">quarree</rdg>
+              <rdg wit="#P">quarre</rdg>
+              <rdg wit="#R">quarree</rdg>
+              <rdg wit="#S">quarees</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">tor</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">qaree</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="88">
+          <root>
+            <app>
+              <rdg wit="#A">Onques</rdg>
+              <rdg wit="#B">Onques</rdg>
+              <rdg wit="#C">Onques</rdg>
+              <rdg wit="#P">Onques</rdg>
+              <rdg wit="#R">S'onques</rdg>
+              <rdg wit="#S">Onques</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">n'i</rdg>
+              <rdg wit="#B">n'i</rdg>
+              <rdg wit="#C">n'i</rdg>
+              <rdg wit="#P">n'i</rdg>
+              <rdg wit="#R">n'i</rdg>
+              <rdg wit="#S">n'i</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">ot</rdg>
+              <rdg wit="#B">ot</rdg>
+              <rdg wit="#C">ot</rdg>
+              <rdg wit="#P">ot</rdg>
+              <rdg wit="#R">ot</rdg>
+              <rdg wit="#S">ot</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">porte</rdg>
+              <rdg wit="#B">resne</rdg>
+              <rdg wit="#C">porte</rdg>
+              <rdg wit="#P">porte</rdg>
+              <rdg wit="#R">porte</rdg>
+              <rdg wit="#S">porte</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">fermee</rdg>
+              <rdg wit="#B">tiree</rdg>
+              <rdg wit="#C">serree</rdg>
+              <rdg wit="#P">fermee</rdg>
+              <rdg wit="#R">serree</rdg>
+              <rdg wit="#S">fermee</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="89">
+          <root>
+            <app>
+              <rdg wit="#A">Ne</rdg>
+              <rdg wit="#B">Ne</rdg>
+              <rdg wit="#C">Ne</rdg>
+              <rdg wit="#P">Ne</rdg>
+              <rdg wit="#R">Ne</rdg>
+              <rdg wit="#S">Ne</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">por</rdg>
+              <rdg wit="#B">por</rdg>
+              <rdg wit="#C">por</rdg>
+              <rdg wit="#P">por</rdg>
+              <rdg wit="#R">por</rdg>
+              <rdg wit="#S">por</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">peor</rdg>
+              <rdg wit="#B">paor</rdg>
+              <rdg wit="#C">poor</rdg>
+              <rdg wit="#P">paor</rdg>
+              <rdg wit="#R">poor</rdg>
+              <rdg wit="#S">paor</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">ne</rdg>
+              <rdg wit="#B">ne</rdg>
+              <rdg wit="#C">ne</rdg>
+              <rdg wit="#P">ne</rdg>
+              <rdg wit="#R">ne</rdg>
+              <rdg wit="#S">ne</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">por</rdg>
+              <rdg wit="#B">por</rdg>
+              <rdg wit="#C">por</rdg>
+              <rdg wit="#P">por</rdg>
+              <rdg wit="#R">por</rdg>
+              <rdg wit="#S">por</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">assaut</rdg>
+              <rdg wit="#B">assalt</rdg>
+              <rdg wit="#C">asaut</rdg>
+              <rdg wit="#P">assaut</rdg>
+              <rdg wit="#R">assault</rdg>
+              <rdg wit="#S">asaut</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="90">
+          <root>
+            <app>
+              <rdg wit="#A">Li</rdg>
+              <rdg wit="#B">Li</rdg>
+              <rdg wit="#C">Li</rdg>
+              <rdg wit="#P">Li</rdg>
+              <rdg wit="#R">Li</rdg>
+              <rdg wit="#S">Li</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">chastiax</rdg>
+              <rdg wit="#B">castiax</rdg>
+              <rdg wit="#C">chastiaus</rdg>
+              <rdg wit="#P">castiaus</rdg>
+              <rdg wit="#R">chastiax</rdg>
+              <rdg wit="#S">chastiauz</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">sist</rdg>
+              <rdg wit="#B">sist</rdg>
+              <rdg wit="#C">sist</rdg>
+              <rdg wit="#P">sist</rdg>
+              <rdg wit="#R">sist</rdg>
+              <rdg wit="#S">siet</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">en</rdg>
+              <rdg wit="#B">en</rdg>
+              <rdg wit="#P">en</rdg>
+              <rdg wit="#R">en</rdg>
+              <rdg wit="#S">en</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">un</rdg>
+              <rdg wit="#B">i</rdg>
+              <rdg wit="#C">.i.</rdg>
+              <rdg wit="#P">.j.</rdg>
+              <rdg wit="#R">i</rdg>
+              <rdg wit="#S">un</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">pui</rdg>
+              <rdg wit="#B">poi</rdg>
+              <rdg wit="#C">poi</rdg>
+              <rdg wit="#P">pui</rdg>
+              <rdg wit="#R">pui</rdg>
+              <rdg wit="#S">pui</rdg>
+            </app>
+            <app>
+              <rdg wit="#C">en</rdg>
+              <rdg wit="#R">en</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">haut</rdg>
+              <rdg wit="#B">halt</rdg>
+              <rdg wit="#C">haut</rdg>
+              <rdg wit="#P">haut</rdg>
+              <rdg wit="#R">halt</rdg>
+              <rdg wit="#S">haut</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="91">
+          <root>
+            <app>
+              <rdg wit="#A">Et</rdg>
+              <rdg wit="#B">Et</rdg>
+              <rdg wit="#C">Et</rdg>
+              <rdg wit="#P">Et</rdg>
+              <rdg wit="#R">Et</rdg>
+              <rdg wit="#S">Et</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">par</rdg>
+              <rdg wit="#B">par</rdg>
+              <rdg wit="#C">par</rdg>
+              <rdg wit="#P">par</rdg>
+              <rdg wit="#R">par</rdg>
+              <rdg wit="#S">par</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">desoz</rdg>
+              <rdg wit="#B">devant</rdg>
+              <rdg wit="#C">devant</rdg>
+              <rdg wit="#P">desous</rdg>
+              <rdg wit="#R">devant</rdg>
+              <rdg wit="#S">desoz</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">li</rdg>
+              <rdg wit="#B">li</rdg>
+              <rdg wit="#C">li</rdg>
+              <rdg wit="#P">li</rdg>
+              <rdg wit="#R">li</rdg>
+              <rdg wit="#S">li</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">cort</rdg>
+              <rdg wit="#B">vint</rdg>
+              <rdg wit="#C">cort</rdg>
+              <rdg wit="#P">cort</rdg>
+              <rdg wit="#R">cort</rdg>
+              <rdg wit="#S">cort</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">Tamise</rdg>
+              <rdg wit="#B">tamise</rdg>
+              <rdg wit="#C">Tamise</rdg>
+              <rdg wit="#P">Tamise</rdg>
+              <rdg wit="#R">thamise</rdg>
+              <rdg wit="#S">Tramisse</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="92">
+          <root>
+            <app>
+              <rdg wit="#A">Sor</rdg>
+              <rdg wit="#B">Sos</rdg>
+              <rdg wit="#C">Sor</rdg>
+              <rdg wit="#P">Sor</rdg>
+              <rdg wit="#R">Sor</rdg>
+              <rdg wit="#S">Sus</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">la</rdg>
+              <rdg wit="#B">la</rdg>
+              <rdg wit="#C">la</rdg>
+              <rdg wit="#P">la</rdg>
+              <rdg wit="#R">la</rdg>
+              <rdg wit="#S">la</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">riviere</rdg>
+              <rdg wit="#B">riviere</rdg>
+              <rdg wit="#C">riviere</rdg>
+              <rdg wit="#P">riviere</rdg>
+              <rdg wit="#R">riviere</rdg>
+              <rdg wit="#S">rive</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">est</rdg>
+              <rdg wit="#B">est</rdg>
+              <rdg wit="#C">est</rdg>
+              <rdg wit="#P">est</rdg>
+              <rdg wit="#R">est</rdg>
+              <rdg wit="#S">fu</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">l'oz</rdg>
+              <rdg wit="#B">l'os</rdg>
+              <rdg wit="#C">l'oz</rdg>
+              <rdg wit="#P">los</rdg>
+              <rdg wit="#R">l'ost</rdg>
+              <rdg wit="#S">l'oz</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">asise</rdg>
+              <rdg wit="#B">asise</rdg>
+              <rdg wit="#C">asise</rdg>
+              <rdg wit="#P">assise</rdg>
+              <rdg wit="#R">assise</rdg>
+              <rdg wit="#S">asise</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="93">
+          <root>
+            <app>
+              <rdg wit="#A">Ne</rdg>
+              <rdg wit="#B">Ainc</rdg>
+              <rdg wit="#C">Ne</rdg>
+              <rdg wit="#P">Ainc</rdg>
+              <rdg wit="#R">Mais</rdg>
+              <rdg wit="#S">Ne</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">ce</rdg>
+              <rdg wit="#B">cel</rdg>
+              <rdg wit="#C">ce</rdg>
+              <rdg wit="#P">cel</rdg>
+              <rdg wit="#R">cel</rdg>
+              <rdg wit="#S">cel</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">jor</rdg>
+              <rdg wit="#B">jor</rdg>
+              <rdg wit="#C">jor</rdg>
+              <rdg wit="#P">jor</rdg>
+              <rdg wit="#R">jor</rdg>
+              <rdg wit="#S">jor</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">ne</rdg>
+              <rdg wit="#B">ne</rdg>
+              <rdg wit="#C">ne</rdg>
+              <rdg wit="#P">ne</rdg>
+              <rdg wit="#R">ne</rdg>
+              <rdg wit="#S">ne</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">lor</rdg>
+              <rdg wit="#B">lor</rdg>
+              <rdg wit="#C">lor</rdg>
+              <rdg wit="#P">lor</rdg>
+              <rdg wit="#R">lor</rdg>
+              <rdg wit="#S">lor</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">lut</rdg>
+              <rdg wit="#B">lut</rdg>
+              <rdg wit="#C">lut</rdg>
+              <rdg wit="#P">lut</rdg>
+              <rdg wit="#R">lut</rdg>
+              <rdg wit="#S">vit</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">antendre</rdg>
+              <rdg wit="#B">entendre</rdg>
+              <rdg wit="#C">entendre</rdg>
+              <rdg wit="#P">entendre</rdg>
+              <rdg wit="#R">entendre</rdg>
+              <rdg wit="#S">entandre</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="94">
+          <root>
+            <app>
+              <rdg wit="#A">S'a</rdg>
+              <rdg wit="#B">S'as</rdg>
+              <rdg wit="#C">S'au</rdg>
+              <rdg wit="#P">S'a</rdg>
+              <rdg wit="#R">S'a</rdg>
+              <rdg wit="#S">S'a</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">logier</rdg>
+              <rdg wit="#B">tres</rdg>
+              <rdg wit="#C">tres</rdg>
+              <rdg wit="#P">loges</rdg>
+              <rdg wit="#R">trefs</rdg>
+              <rdg wit="#S">logier</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">non</rdg>
+              <rdg wit="#B">non</rdg>
+              <rdg wit="#C">non</rdg>
+              <rdg wit="#P">non</rdg>
+              <rdg wit="#R">non</rdg>
+              <rdg wit="#S">non</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">et</rdg>
+              <rdg wit="#B">et</rdg>
+              <rdg wit="#C">et</rdg>
+              <rdg wit="#P">et</rdg>
+              <rdg wit="#R">et</rdg>
+              <rdg wit="#S">et</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">as</rdg>
+              <rdg wit="#B">as</rdg>
+              <rdg wit="#C">au</rdg>
+              <rdg wit="#P">a</rdg>
+              <rdg wit="#R">as</rdg>
+              <rdg wit="#S">a</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">trez</rdg>
+              <rdg wit="#B">loges</rdg>
+              <rdg wit="#C">loges</rdg>
+              <rdg wit="#P">tref</rdg>
+              <rdg wit="#R">loges</rdg>
+              <rdg wit="#S">trez</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">tandre</rdg>
+              <rdg wit="#B">tendre</rdg>
+              <rdg wit="#C">tendre</rdg>
+              <rdg wit="#P">tendre</rdg>
+              <rdg wit="#R">tendre</rdg>
+              <rdg wit="#S">tendre</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="95">
+          <root>
+            <app>
+              <rdg wit="#A">L'oz</rdg>
+              <rdg wit="#B">L'os</rdg>
+              <rdg wit="#C">L'oz</rdg>
+              <rdg wit="#P">[270b]</rdg>
+              <rdg wit="#S">Lor</rdg>
+            </app>
+            <app>
+              <rdg wit="#P">L'ost</rdg>
+              <rdg wit="#R">L'ost</rdg>
+              <rdg wit="#S">set</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">est</rdg>
+              <rdg wit="#B">est</rdg>
+              <rdg wit="#C">est</rdg>
+              <rdg wit="#P">s'est</rdg>
+              <rdg wit="#R">est</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">sor</rdg>
+              <rdg wit="#B">sos</rdg>
+              <rdg wit="#C">sor</rdg>
+              <rdg wit="#P">sor</rdg>
+              <rdg wit="#R">sor</rdg>
+              <rdg wit="#S">sor</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">la</rdg>
+              <rdg wit="#B">tamise</rdg>
+              <rdg wit="#C">Tamise</rdg>
+              <rdg wit="#P">Tamise</rdg>
+              <rdg wit="#R">thamise</rdg>
+              <rdg wit="#S">Tramise</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">pree</rdg>
+              <rdg wit="#B">logie</rdg>
+              <rdg wit="#C">logie</rdg>
+              <rdg wit="#P">logie</rdg>
+              <rdg wit="#R">logee</rdg>
+              <rdg wit="#S">alogiez</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">logiee</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="96">
+          <root>
+            <app>
+              <rdg wit="#A">Tote</rdg>
+              <rdg wit="#B">Tote</rdg>
+              <rdg wit="#C">Toute</rdg>
+              <rdg wit="#P">En</rdg>
+              <rdg wit="#R">Tote</rdg>
+              <rdg wit="#S">Tote</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">Tamise</rdg>
+              <rdg wit="#P">outre</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">la</rdg>
+              <rdg wit="#C">la</rdg>
+              <rdg wit="#P">la</rdg>
+              <rdg wit="#R">la</rdg>
+              <rdg wit="#S">la</rdg>
+            </app>
+            <app>
+              <rdg wit="#B">pree</rdg>
+              <rdg wit="#C">pree</rdg>
+              <rdg wit="#P">pree</rdg>
+              <rdg wit="#R">pree</rdg>
+              <rdg wit="#S">pree</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">est</rdg>
+              <rdg wit="#B">est</rdg>
+              <rdg wit="#C">est</rdg>
+              <rdg wit="#P">est</rdg>
+              <rdg wit="#R">est</rdg>
+              <rdg wit="#S">est</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">herbergiee</rdg>
+              <rdg wit="#B">herbergie</rdg>
+              <rdg wit="#C">herbergie</rdg>
+              <rdg wit="#P">herbergie</rdg>
+              <rdg wit="#R">herbegee</rdg>
+              <rdg wit="#S">herbergie</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="97">
+          <root>
+            <app>
+              <rdg wit="#A">De</rdg>
+              <rdg wit="#B">De</rdg>
+              <rdg wit="#C">De</rdg>
+              <rdg wit="#P">De</rdg>
+              <rdg wit="#R">De</rdg>
+              <rdg wit="#S">Mes</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">paveillons</rdg>
+              <rdg wit="#B">pavillons</rdg>
+              <rdg wit="#C">paveillons</rdg>
+              <rdg wit="#P">pavillons</rdg>
+              <rdg wit="#R">paveillons</rdg>
+              <rdg wit="#S">paveillons</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">viez</rdg>
+              <rdg wit="#B">clers</rdg>
+              <rdg wit="#C">verz</rdg>
+              <rdg wit="#P">vers</rdg>
+              <rdg wit="#R">vers</rdg>
+              <rdg wit="#S">verz</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">et</rdg>
+              <rdg wit="#B">et</rdg>
+              <rdg wit="#C">et</rdg>
+              <rdg wit="#P">et</rdg>
+              <rdg wit="#R">et</rdg>
+              <rdg wit="#S">et</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">vermauz</rdg>
+              <rdg wit="#B">vermaus</rdg>
+              <rdg wit="#C">vermeuz</rdg>
+              <rdg wit="#P">vermaus</rdg>
+              <rdg wit="#R">vermelz</rdg>
+              <rdg wit="#S">vermiauz</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="98">
+          <root>
+            <app>
+              <rdg wit="#A">Es</rdg>
+              <rdg wit="#B">Es</rdg>
+              <rdg wit="#C">Es</rdg>
+              <rdg wit="#P">Es</rdg>
+              <rdg wit="#R">Es</rdg>
+              <rdg wit="#S">As</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">colors</rdg>
+              <rdg wit="#B">colors</rdg>
+              <rdg wit="#C">color</rdg>
+              <rdg wit="#P">colors</rdg>
+              <rdg wit="#R">colors</rdg>
+              <rdg wit="#S">colors</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">se</rdg>
+              <rdg wit="#B">se</rdg>
+              <rdg wit="#C">se</rdg>
+              <rdg wit="#P">se</rdg>
+              <rdg wit="#R">se</rdg>
+              <rdg wit="#S">se</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">fiert</rdg>
+              <rdg wit="#B">fiert</rdg>
+              <rdg wit="#C">fiert</rdg>
+              <rdg wit="#P">fiert</rdg>
+              <rdg wit="#R">fiert</rdg>
+              <rdg wit="#S">fiert</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">li</rdg>
+              <rdg wit="#B">li</rdg>
+              <rdg wit="#C">li</rdg>
+              <rdg wit="#P">li</rdg>
+              <rdg wit="#R">li</rdg>
+              <rdg wit="#S">li</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">solauz</rdg>
+              <rdg wit="#B">solaus</rdg>
+              <rdg wit="#C">soleuz</rdg>
+              <rdg wit="#P">solaus</rdg>
+              <rdg wit="#R">soleulz</rdg>
+              <rdg wit="#S">soleuz</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="99">
+          <root>
+            <app>
+              <rdg wit="#A">Si</rdg>
+              <rdg wit="#B">Si</rdg>
+              <rdg wit="#C">S'en</rdg>
+              <rdg wit="#P">Si</rdg>
+              <rdg wit="#R">S'en</rdg>
+              <rdg wit="#S">S'an</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">reflanboie</rdg>
+              <rdg wit="#B">reflamboie</rdg>
+              <rdg wit="#C">reflamboie</rdg>
+              <rdg wit="#P">reflambioit</rdg>
+              <rdg wit="#R">reflamboie</rdg>
+              <rdg wit="#S">reflablie</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">la</rdg>
+              <rdg wit="#B">la</rdg>
+              <rdg wit="#C">la</rdg>
+              <rdg wit="#P">la</rdg>
+              <rdg wit="#R">la</rdg>
+              <rdg wit="#S">la</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">riviere</rdg>
+              <rdg wit="#B">riviere</rdg>
+              <rdg wit="#C">riviere</rdg>
+              <rdg wit="#P">riviere</rdg>
+              <rdg wit="#R">riviere</rdg>
+              <rdg wit="#S">riveure</rdg>
+            </app>
+          </root>
+        </l>
+        <l n="100">
+          <root>
+            <app>
+              <rdg wit="#A">Plus</rdg>
+              <rdg wit="#B">Plus</rdg>
+              <rdg wit="#C">Plus</rdg>
+              <rdg wit="#P">Plus</rdg>
+              <rdg wit="#R">Plus</rdg>
+              <rdg wit="#S">Plus</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">d'une</rdg>
+              <rdg wit="#B">d'une</rdg>
+              <rdg wit="#C">d'une</rdg>
+              <rdg wit="#P">d'une</rdg>
+              <rdg wit="#R">d'une</rdg>
+              <rdg wit="#S">d'une</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">grant</rdg>
+              <rdg wit="#B">grant</rdg>
+              <rdg wit="#C">grant</rdg>
+              <rdg wit="#P">grant</rdg>
+              <rdg wit="#R">grant</rdg>
+              <rdg wit="#S">loy</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">liue</rdg>
+              <rdg wit="#B">liue</rdg>
+              <rdg wit="#C">liue</rdg>
+              <rdg wit="#P">lune</rdg>
+              <rdg wit="#R">lue</rdg>
+            </app>
+            <app>
+              <rdg wit="#A">pleniere</rdg>
+              <rdg wit="#B">pleniere</rdg>
+              <rdg wit="#C">planiere</rdg>
+              <rdg wit="#P">pleniere</rdg>
+              <rdg wit="#R">pleniere</rdg>
+              <rdg wit="#S">pleniere</rdg>
+            </app>
+          </root>
+        </l>
+      </div>
+    </body>
+  </text>
+</TEI>
